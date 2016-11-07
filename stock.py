@@ -174,6 +174,13 @@ class windows():
 		plt.plot(x,y)
 		plt.show()
 	def delete(self):
+		self.stock_code_text.set("")
+		self.stock_name_text.set("")
+		self.stock_num_text.set("")
+		self.stock_rate_text.set("")
+		self.stock_sprice_text.set("")
+		self.stock_bprice_text.set("")
+		self.stock_sprice_text.set("")
 		pass
 
 if __name__=="__main__":
