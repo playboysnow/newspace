@@ -1,0 +1,153 @@
+
+http://www.yiibai.com/ant/ant_build_documentation.html
+
+二、Ant管理项目 
+   当开始一个新的项目时,首先应该编写Ant的构建文件，构建文件定义了构建过程，并被团队开发中每个人使用。Ant构建文件的默认命名为build.xml,也可以取其他的名字，只不过把这个命名当成参数传递给Ant，构建文件可以放置任何位置，一般是放到项目顶级目录中， 这样可以保持项目的整洁和清晰，下面是一个典型的项目层次结构,如下所示： 
+build存放编译的class文件和jsp文件。
+class存放编译后的文件。
+src存放文件。
+lib存放第三方JAR包。
+dist存放打包，发布以后的代码
+
+Ant构建文件是XML文件,每个构建文件定义一个唯一的项目(Project元素)，每个项目下可以定义很多目标(target元素),这些目标元素可以有依赖关系,当执行这些目标元素时需要执行他们所依赖的目标元素，每个目标中可以定义多个任务，目标中还定义了所要执行的任务序列。Ant在构建目标时必须调用所定义的任务。任务定义了Ant实际执行的命令。Ant中的任务可以为3类，如下所示： 
+核心任务。核心任务是Ant自带的任务。
+可选任务。可选任务实来自第三方的任务，因此需要一个附加的JAR文件。
+用户自定义的任务。用户自定义的任务实用户自己开发的任务。
+
+1、<project>标签 
+   每个构建文件对应一个项目,project标签是构建文件的跟标签,它可以有多个内在属性,各个属性的含义分别如下所示： 
+default表示默认的执行目标,这个属性是必须的。
+basedir表示项目的基准路径,这个属性是必须的。
+name表示项目名称。
+description表示项目的描述(或者是对这个标签的作用进行表述)。
+每个构建文件都对应于一个项目，但是大型项目经常包含大量的子项目，每一个子项目都可以有自己的构建文件。 
+2、<target>标签 
+   一个项目标签下可以有一个或多个target标签,一个target标签可以依赖其他target标签,target所有属性如下所示： 
+name表示这个标签的名字,这个属性是必须的。
+depends表示依赖的目标。
+if表示仅当属性设置时才执行。
+unless表示当属性没有设置时才执行。
+description表示项目的描述(或者是对这个标签的作用进行表述)。
+
+Ant的depends属性指定了target的执行顺序,Ant会依照depends属性中target标签出现顺序依次执行每个target,在执行之前首先执行它所依赖的target标签，例如： 
+项目中的名为run的target的depends属性compile，而名为compile的target的depends属性是init,所以这几个target标签的执行顺序是init—》compile—》run。一个target只能被执行一次，即使有多个target依赖于它。如果没有if或unless属性，target总会被执行。 
+3、<mkdir>标签 
+该标签用户创建一个目录,它有一个属性dir用户指定所创建的目录,其代码如下： 
+<mkdir dir="目录名"/> 
+4、<jar>标签 
+该标签用来生成一个JAR包,其属性如下: 
+jarfile表示生产JAR文件名。
+basedir表示被归档的目录。
+includes表示别归档的文件模式。
+exchudes表示被排除的文件模式。
+
+5、<javac标签> 
+该标签用于编译一个或一组java文件，其属性如下： 
+srcdir表示java源程序的目录。
+destdir表示class文件的输出目录。
+includes表示别归档的文件模式。
+exchudes表示被排除的文件模式。
+debug表示包含的调试信息。
+optimize表示是否使用优化。
+classpath表示所使用的类路径。
+verbose 表示提供详细的输出信息。
+fileonerror表示当碰到错误就自动停止。
+
+6、<java>标签 
+该标签用来执行编译生成的.class文件，其属性如下: 
+classname 表示将执行的类名。
+jar表示包含该类的JAR文件名。
+classpath所表示用到的类路径。
+fork表示在一个新的虚拟机中运行该类。
+failonerror表示当出现错误时自动停止。
+output 表示输出文件。
+append表示追加或者覆盖默认文件。
+
+7、<delete>标签 
+该标签用于删除一个文件或一组文件，其属性如下: 
+file表示要删除的文件。
+dir表示要删除的目录。
+includeEmptyDirs 表示指定是否要删除空目录，默认值是删除。
+failonerror 表示指定当碰到错误是否停止，默认值是自动停止。
+verbose表示指定是否列出所删除的文件，默认值为不列出。
+
+8、<copy>标签 
+该标签用于文件或文件集的拷贝，其属性如下: 
+file 表示源文件。
+tofile 表示目标文件。
+todir 表示目标目录。
+overwrite 表示指定是否覆盖目标文件，默认值是不覆盖。
+includeEmptyDirs 表示制定是否拷贝空目录，默认值为拷贝。
+failonerror 表示指定如目标没有发现是否自动停止，默认值是停止。
+verbose 表示制定是否显示详细信息，默认值不显示。
+
+9、<war>标签 
+该标签用来生成一个WAR包,其属性如下: 
+destfile表示生产JAR文件名。
+dir表示被归档的文件目录。
+includes表示别归档的文件模式。
+exchudes表示被排除的文件模式。
+
+10、<echo>标签 
+该标签用来在控制台输出信息,其输入如下： 
+message表示输入的内容。
+
+Ant的数据类型 
+在构建文件中为了标识文件或文件组，经常需要使用数据类型。数据类型包含在 
+org.apache.tool.ant.types包中。简单介绍构建文件中一些常用的数据类型。 
+1. argument 类型 
+由Ant构建文件调用的程序，可以通过<arg>元素向其传递命令行参数，如apply,exec和java任务均可接受嵌套<arg>元素，可以为各自的过程调用指定参数。以下是<arg>的所有属性: 
+values 是一个命令参数,如果参数有空格,但又想将它作为单独一个值,则使用此属性。
+file表示一个参数的文件名。在构建文件中，此文件名相对于当前的工作目录。
+line表示用空格分隔的多个参数列表。
+path表示路径。
+
+2.ervironment 类型 
+  由Ant构建文件调用的外部命令或程序，<env>元素制定了哪些环境变量要传递给正在执行的系统命令，<env>元素可以接受以下属性: 
+file表示环境变量值得文件名。此文件名要被转换位一个绝对路径。
+path表示环境变量的路径。Ant会将它转换为一个本地约定。
+value 表示环境变量的一个直接变量。
+key 表示环境变量名。
+
+注意  file path 或 value只能取一个。 
+3.filelist类型 
+Filelist 是一个支持命名的文件列表的数据类型，包含在一个filelist类型中的文件不一定是存在的文件。以下是其所有的属性: 
+dir是用于计算绝对文件名的目录。
+files 是用逗号分隔的文件名列表。
+refid 是对某处定义的一个<filelist>的引用。
+
+注意  dir 和 files 都是必要的，除非指定了refid(这种情况下，dir和files都不允许使用)。 
+4.fileset类型 
+Fileset 数据类型定义了一组文件，并通常表示为<fileset>元素。不过，许多ant任务构建成了隐式的fileset,这说明他们支持所有的fileset属性和嵌套元素。以下为fileset 的属性列表。 
+dir表示fileset 的基目录。
+casesensitive的值如果为false，那么匹配文件名时，fileset不是区分大小写的，其默认值为true.
+defaultexcludes 用来确定是否使用默认的排除模式，默认为true。
+excludes 是用逗号分隔的需要派出的文件模式列表。
+excludesfile 表示每行包含一个排除模式的文件的文件名。
+includes 是用逗号分隔的，需要包含的文件模式列表。
+includesfile 表示每行包括一个包含模式的文件名。
+
+5.patternset 类型 Fileset 是对文件的分组，而patternset是对模式的分组，他们是紧密相关的概念。 
+<patternset>支持4个属性：includes excludex includexfile 和 excludesfile,与fileset相 
+同。Patternset 还允许以下嵌套元素：include,exclude,includefile 和 excludesfile. 
+
+6.filterset 类型 
+Filterset定义了一组过滤器，这些过滤器将在文件移动或复制时完成文件的文本替换。 
+主要属性如下： 
+begintoken 表示嵌套过滤器所搜索的记号，这是标识其开始的字符串。
+endtoken表示嵌套过滤器所搜索的记号这是标识其结束的字符串。
+id是过滤器的唯一标志符。
+refid是对构建文件中某处定义一个过滤器的引用。
+
+7.Path类型Path元素用来表示一个类路径，不过它还可以用于表示其他的路径。在用作多个属性时，路径中的各项用分号或冒号隔开。在构建的时候，此分隔符将代替当前平台中所有的路径分隔符，其拥有的属性如下： 
+location 表示一个文件或目录。Ant在内部将此扩展为一个绝对路径。
+refid 是对当前构建文件中某处定义的一个path的引用。
+path表示一个文件或路径名列表。
+
+8.mapper类型Mapper类型定义了一组输入文件和一组输出文件间的关系，其属性如下：
+classname 表示实现mapper类的类名。当内置mapper不满足要求时，用于创建定制mapper.
+classpath表示查找一个定制mapper时所用的类型路径。
+classpathref是对某处定义的一个类路径的引用。
+from属性的含义取决于所用的mapper.
+to属性的含义取决于所用的mapper.
+type属性的取值为identity，flatten glob merge  regexp  其中之一，它定义了要是用的内置mapper的类型。

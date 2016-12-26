@@ -1,0 +1,175 @@
+1、build.gradle 工程构建文件。
+顶级构建文件，为整个项目添加配置
+// 声明gradle脚本自身需要使用的资源，包括依赖项、第三方插件、maven仓库地址等。
+buildscript {
+    // 声明仓库的源。之前这里用mavenCentral()
+    repositories {
+        jcenter()     // jCenter可以理解成是一个新的中央远程仓库，兼容maven中心仓库，而且性能更优
+    }
+ 
+    // 配置使用gradle所需要依赖的版本库
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.2.0'
+        classpath 'com.jakewharton:butterknife-gradle-plugin:8.4.0'
+    }
+}
+ 
+// 为所有的工程的repositories配置为jcenters
+allprojects {
+    repositories {
+        jcenter()     // 支持Java 依赖库管理（maven/ivy）
+    }
+}
+ 
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+
+2/app/build.gradle module构建文件
+// 声明要使用的插件。可以自己定制
+apply plugin: 'com.android.application'     // 说明该module的构建类型。如果该moudle是个库，就写com.android.library
+apply plugin: 'com.jakewharton.butterknife'     // 注解插件
+apply plugin: 'com.google.gms.google-services'   // 谷歌服务插件
+ 
+ 
+// 设置编译android项目的参数
+android {
+    // SDK的一些声明
+    compileSdkVersion 25     // 编译使用的SDK版本(本地要有)
+    buildToolsVersion "24.0.2"     // 编译使用的tools版本(在sdk目录/build-tools/下)
+ 
+    // 默认配置
+    defaultConfig {
+        applicationId "com.neiliner.mymovie.xiaomi"     // 安装时依据该ID区分是否为同一个应用
+        minSdkVersion 14     //支持的最低版本
+        targetSdkVersion 25     //支持的目标版本
+        versionCode 1     // 版本号，用户能看到的版本号
+        versionName "1.0"     // 版本名，内部定义的版本名
+ 
+        // 单元测试相关的配置。扩展见<补充1>
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+ 
+    //关闭Android Studio的PNG合法性检查的
+    aaptOptions.cruncherEnabled = false
+    aaptOptions.useNewCruncher = false
+ 
+    // 指定资源的路径。比如从Eclipse迁过来的代码，和AS的文件位置不同，就需要手动设置
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'     //指定AndroidManifest文件
+            java.srcDirs = ['src']     //指定source目录
+            resources.srcDirs = ['src']     //指定source目录
+            aidl.srcDirs = ['src']     //指定source目录
+            renderscript.srcDirs = ['src']     //指定source目录
+            res.srcDirs = ['res']     //指定资源目录
+            assets.srcDirs = ['assets']     //指定assets目录
+            jniLibs.srcDirs = ['libs']     //指定lib库目录
+        }
+        debug.setRoot('build-types/debug')     //指定debug模式的路径
+        release.setRoot('build-types/release')     //指定release模式的路径
+    }
+ 
+    //签名配置。需要与下面buildTypes配合使用
+    signingConfigs {
+        //发布版签名配置
+        release {
+            storeFile file("fk.keystore")     // 密钥文件路径
+            storePassword "123"     // 密钥文件密码
+            keyAlias "fk"     // key别名
+            keyPassword "123"     // key密码
+        }
+ 
+        //debug版签名配置
+        debug { 
+            storeFile file("fk.keystore")     // 密钥文件路径
+            storePassword "123"     // 密钥文件密码
+            keyAlias "fk"     // key别名
+            keyPassword "123"     // key密码
+        }
+    }
+ 
+    // build类型
+    buildTypes {
+        debug {
+            applicationIdSuffix ".debug"     //将包名设置为.debug，以便同时安装debug和release版本。
+            signingConfig signingConfigs.release     //设置上面signingConfigs的签名配置
+        }
+        release {
+            minifyEnabled false     // 是否进行混淆
+            zipAlignEnabled true     //是否支持zip
+            shrinkResources true     // 移除无用的resource文件
+            debuggable false     //是否支持调试
+            signingConfig signingConfigs.debug     //设置签名信息
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'     // 设置混淆文件的位置。扩展见<补充2>
+        }
+    }
+ 
+    // 打包时的相关配置。当项目中依赖的第三方库越来越多时，有可能会出现两个依赖库中存在同一个（名称）文件。如果这样，Gradle在打包时就会提示错误（警告）。那么就可以根据提示，然后使用以下方法将重复的文件剔除。
+    packagingOptions {
+        exclude 'META-INF/ASL2.0'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/MANIFEST.MF'
+    }
+ 
+    // 程序在编译的时候会检查lint，有任何错误提示会停止build，我们可以关闭这个开关
+    lintOptions {
+        abortOnError false     // 有错误是否停止build
+        checkReleaseBuilds false     //打包release版本的时候是否进行检测
+    }
+ 
+    // multiDex的一些相关配置，这样配置可以让你的编译速度更快
+    dexOptions {
+        preDexLibraries = false
+        incremental true     // 让它不要对Lib做preDexing
+        // 开启incremental dexing,优化编译效率，这个功能android studio默认是关闭的。
+        javaMaxHeapSize "4g"     // 设置java堆内存大小
+    }
+ 
+    // 设置产品特性，即多渠道打包的东西，比如不同的应用名，图标、AndroidManifest.xml
+    // 配合manifest merger使用的时候就可以达成在一次编译过程中产生多个具有自己特性配置的版本。
+    productFlavors {
+        xiaomi {
+            manifestPlaceholders = [UMENG_CHANNEL_VALUE: "xiaomi"]     // 渠道包配置
+            manifest.srcFile 'exampleapk/AndroidManifest1.xml'
+            applicationId "com.abc.def.xiaomi"
+        }
+        googlePlay {
+            applicationId "com.abc.def.googleplay"
+        }
+    }
+ 
+    // productFlavors的批量方法，类似一个循序遍历作用。
+    productFlavors.all {
+        flavor -> flavor.manifestPlaceholders = [UMENG_CHANNEL_VALUE: name]
+    }
+ 
+    // java版本
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+}
+ 
+ 
+// 依赖。远程本地都在这儿配置
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')     // 编译libs目录下的所有jar包
+    testCompile 'junit:junit:4.12'     // 编译单元测试框架
+    compile project(':library')     // 依赖本项目中名为library的库
+    compile 'com.github.bumptech.glide:glide:3.7.0'     // 编译第三方库
+    compile 'com.jakewharton:butterknife:8.4.0'     // 编译第三方库
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.4.0'     // 指定处理Annotation的库。AS2.2以前版本这里用 apt。
+}
+
+3、setting.gradle 工程配置
+
+// 声明需要加入gradle的module，即告诉gradle项目中有哪些module需要处理
+include ':app', ':extras:ShimmerAndroid'
+
+
+
+
+
+
