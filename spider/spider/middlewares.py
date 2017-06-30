@@ -7,7 +7,11 @@
 
 from scrapy import signals
 
+class ProxyMiddleware(object):
+    def request(selfself,requests,spider):
+        requests.meta['proxy']='http://60.167.133.99:808'
 
+'''
 class SpiderSpiderMiddleware(object):
     # Not all methods need to be defined. If a method is not defined,
     # scrapy acts as if the spider middleware does not modify the
@@ -54,3 +58,4 @@ class SpiderSpiderMiddleware(object):
 
     def spider_opened(self, spider):
         spider.logger.info('Spider opened: %s' % spider.name)
+'''

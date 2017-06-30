@@ -15,3 +15,4 @@ class SpiderItem(scrapy.Item):
     name = scrapy.Field()
     parse = scrapy.Field()
     price = scrapy.Field()
+    salecount=scrapy.Field()

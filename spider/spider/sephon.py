@@ -5,9 +5,14 @@ url="https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.5.kiaYU2&id=534
 driver=webdriver.PhantomJS()
 driver.get(url)
 #print driver.page_source
-html=BS(driver.page_source)
+html=BS(driver.page_source,"lxml")
 price=html.find_all("span",class_="tm-price")
-print price
+a=driver.find_element_by_xpath('//*[@id="J_StrPriceModBox"]/dd/span').text
+name=driver.find_element_by_xpath('//*[@id="J_AttrUL"]/li[1]').text
+parse=driver.find_element_by_xpath('//*[@id="J_AttrUL"]/li[3]').text
+print a.encode("utf-8")
+print name.encode("utf-8")
+print parse
 
 #a=driver.find_element_by_xpath('//*[@id="J_StrPriceModBox"]/dd/span')
 #a=driver.page_source.find("tm-price")
