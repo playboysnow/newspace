@@ -1,0 +1,1097 @@
+name										parse					 price			   salecount
+name:产品名称：Samsung/三星 MZ-75E250...    parse:硬盘容量: 250GB    price:699.00      salecount:1665
+name:产品名称：Samsung/三星 MZ-75E250...    parse:硬盘容量: 250GB    price:699.00      salecount:1665
+name:产品名称：PLEXTOR/浦科特 PX-256M...    parse:硬盘容量: 256GB    price:859.00      salecount:741
+name:产品名称：PLEXTOR/浦科特 PX-256M...    parse:硬盘容量: 256GB    price:859.00      salecount:741
+name:产品名称：Lenovo/联想 128G加速盘    parse:硬盘容量: 128GB    price:459.00      salecount:1
+name:产品名称：Lenovo/联想 128G加速盘    parse:硬盘容量: 128GB    price:459.00      salecount:1
+name:产品名称：Lenovo/联想 SL700 固态硬...    parse:硬盘容量: 256GB    price:941.00      salecount:164
+name:产品名称：Lenovo/联想 SATA3 SL500...    parse:硬盘容量: 240GB    price:708.00      salecount:18
+name:产品名称：Lenovo/联想 SL700 固态硬...    parse:硬盘容量: 256GB    price:941.00      salecount:164
+name:产品名称：Lenovo/联想 SATA3 SL500...    parse:硬盘容量: 240GB    price:708.00      salecount:18
+name:产品名称：Lenovo/联想 ST610 120G    parse:硬盘容量: 120GB    price:528.00      salecount:1
+name:产品名称：PLEXTOR/浦科特 PX-512M...    parse:硬盘容量: 512GB    price:1599.00      salecount:5
+name:产品名称：Lenovo/联想 ST610 120G    parse:硬盘容量: 120GB    price:528.00      salecount:1
+name:产品名称：Lenovo/联想 SL700 固态硬...    parse:硬盘容量: 128GB    price:487.00      salecount:205
+name:产品名称：PLEXTOR/浦科特 PX-512M...    parse:硬盘容量: 512GB    price:1599.00      salecount:5
+name:产品名称：士必得 K7M-240G    parse:接口类型: mSATA    price:825.00      salecount:21
+name:产品名称：Lenovo/联想 SL700 固态硬...    parse:硬盘容量: 128GB    price:487.00      salecount:205
+name:产品名称：士必得 K7M-240G    parse:接口类型: mSATA    price:825.00      salecount:21
+name:产品名称：Intel/英特尔 6000P 128G    parse:硬盘容量: 128GB    price:499.00      salecount:2
+name:产品名称：Kingston/金士顿 HyperX ...    parse:硬盘容量: 120GB    price:459.00      salecount:2
+name:产品名称：Transcend/创见 TS480GJD...    parse:硬盘容量: 480GB    price:2999.00      salecount:4
+name:产品名称：Intel/英特尔 6000P 128G    parse:硬盘容量: 128GB    price:499.00      salecount:2
+name:产品名称：Samsung/三星 MZ-75E500...    parse:硬盘容量: 500GB    price:1399.00      salecount:120
+name:产品名称：Kingston/金士顿 HyperX ...    parse:硬盘容量: 120GB    price:459.00      salecount:2
+name:产品名称：Transcend/创见 TS480GJD...    parse:硬盘容量: 480GB    price:2999.00      salecount:4
+name:产品名称：Samsung/三星 MZ-75E500...    parse:硬盘容量: 500GB    price:1399.00      salecount:120
+name:产品名称：Kingston/金士顿 SHPM228...    parse:硬盘容量: 240GB    price:1499.90      salecount:2
+name:产品名称：LITEON 睿速 V5S 128G    parse:硬盘容量: 128GB    price:349.00      salecount:4
+name:产品名称：Kingston/金士顿 SHPM228...    parse:硬盘容量: 240GB    price:1499.90      salecount:2
+name:产品名称：Transcend/创见 TS120GES...    parse:硬盘容量: 120GB    price:699.00      salecount:7
+name:产品名称：LITEON 睿速 V5S 128G    parse:硬盘容量: 128GB    price:349.00      salecount:4
+name:产品名称：影驰 铁甲战将 120GB    parse:硬盘容量: 120GB    price:399.00      salecount:1243
+name:产品名称：Transcend/创见 TS120GES...    parse:硬盘容量: 120GB    price:699.00      salecount:7
+name:产品名称：影驰 铁甲战将 120GB    parse:硬盘容量: 120GB    price:399.00      salecount:1243
+name:产品名称：LITEON 睿速 128G 2280    parse:硬盘容量: 128GB    price:459.00      salecount:35
+name:产品名称：Transcend/创见 TS256GMT...    parse:硬盘容量: 256GB    price:1399.00      salecount:1
+name:产品名称：Lenovo/联想 ST600 mSATA...    parse:硬盘容量: 128GB    price:599.00      salecount:11
+name:产品名称：LITEON 睿速 128G 2280    parse:硬盘容量: 128GB    price:459.00      salecount:35
+name:产品名称：Transcend/创见 TS256GMT...    parse:硬盘容量: 256GB    price:1399.00      salecount:1
+name:产品名称：Lenovo/联想 ST600 mSATA...    parse:硬盘容量: 128GB    price:599.00      salecount:11
+name:产品名称：PLEXTOR/浦科特 PX-128M...    parse:硬盘容量: 128GB    price:449.00      salecount:220
+name:产品名称：PLEXTOR/浦科特 PX-128M...    parse:硬盘容量: 128GB    price:449.00      salecount:220
+name:产品名称：Kingston/金士顿 SMS200S...    parse:硬盘容量: 120GB    price:405.00      salecount:1
+name:产品名称：士必得 H3-480G    parse:硬盘容量: 480GB    price:999.00      salecount:8
+name:产品名称：士必得 K6-240G    parse:接口类型: SATA 3    price:825.00      salecount:0
+name:产品名称：Kingston/金士顿 SMS200S...    parse:硬盘容量: 120GB    price:405.00      salecount:1
+name:产品名称：士必得 H3-480G    parse:硬盘容量: 480GB    price:999.00      salecount:8
+name:产品名称：士必得 K6-240G    parse:接口类型: SATA 3    price:825.00      salecount:0
+name:产品名称：Samsung/三星 MZ-M5E250    parse:硬盘容量: 250GB    price:998.00      salecount:104
+name:产品名称：Transcend/创见 TS256GES...    parse:硬盘容量: 256GB    price:1199.00      salecount:5
+name:产品名称：士必得 K6-120G    parse:接口类型: SATA 3    price:518.00      salecount:0
+name:产品名称：Samsung/三星 MZ-M5E250    parse:硬盘容量: 250GB    price:998.00      salecount:104
+name:产品名称：KingSpec/金胜维 MSATA 6...    parse:硬盘容量: 64GB    price:299.00      salecount:23
+name:产品名称：Transcend/创见 TS256GES...    parse:硬盘容量: 256GB    price:1199.00      salecount:5
+name:产品名称：士必得 K6-120G    parse:接口类型: SATA 3    price:518.00      salecount:0
+name:产品名称：KingSpec/金胜维 MSATA 6...    parse:硬盘容量: 64GB    price:299.00      salecount:23
+name:产品名称：PLEXTOR/浦科特 M8PeGN 1...    parse:硬盘容量: 其他/other    price:3999.00      salecount:0
+name:产品名称：KingSpec/金胜维 IDE DOM...    parse:硬盘容量: 8GB    price:129.00      salecount:25
+name:产品名称：影驰 铠甲战将 128gb    parse:硬盘容量: 128GB    price:399.00      salecount:165
+name:产品名称：KingSpec/金胜维 奇龙2....    parse:硬盘容量: 64GB    price:288.00      salecount:10
+name:产品名称：PLEXTOR/浦科特 M8PeGN 1...    parse:硬盘容量: 其他/other    price:3999.00      salecount:0
+name:产品名称：KingSpec/金胜维 IDE DOM...    parse:硬盘容量: 8GB    price:129.00      salecount:25
+name:产品名称：影驰 铠甲战将 128gb    parse:硬盘容量: 128GB    price:399.00      salecount:165
+name:产品名称：KingSpec/金胜维 奇龙2....    parse:硬盘容量: 64GB    price:288.00      salecount:10
+name:产品名称：偲冠特 SATA 卧式 8GB DOM    parse:硬盘容量: 8GB    price:109.00      salecount:0
+name:产品名称：AData/威刚 SP920 128G    parse:硬盘容量: 128GB    price:529.00      salecount:12
+name:产品名称：Transcend/创见 TS480GJD...    parse:硬盘容量: 480GB    price:2999.00      salecount:1
+name:产品名称：偲冠特 SATA 卧式 8GB DOM    parse:硬盘容量: 8GB    price:109.00      salecount:0
+name:产品名称：影驰 铁甲战将480G    parse:硬盘容量: 480GB    price:999.00      salecount:184
+name:产品名称：AData/威刚 SP920 128G    parse:硬盘容量: 128GB    price:529.00      salecount:12
+name:产品名称：Transcend/创见 TS480GJD...    parse:硬盘容量: 480GB    price:2999.00      salecount:1
+name:产品名称：偲冠特 T500 16GB    parse:硬盘容量: 16GB    price:119.00      salecount:1
+name:产品名称：影驰 铁甲战将480G    parse:硬盘容量: 480GB    price:999.00      salecount:184
+name:产品名称：Intel/英特尔 600P 128G固...    parse:硬盘容量: 128GB    price:469.00      salecount:4
+name:产品名称：偲冠特 T500 16GB    parse:硬盘容量: 16GB    price:119.00      salecount:1
+name:产品名称：Intel/英特尔 600P 128G固...    parse:硬盘容量: 128GB    price:469.00      salecount:4
+name:产品名称：Lenovo/联想 SL700 (240...    parse:硬盘容量: 240GB    price:816.00      salecount:1
+name:产品名称：KingFast/金速 P600 120G    parse:硬盘容量: 120GB    price:599.00      salecount:0
+name:产品名称：PLEXTOR/浦科特 PX-256M...    parse:硬盘容量: 256GB    price:999.00      salecount:75
+name:产品名称：Lenovo/联想 SL700 (240...    parse:硬盘容量: 240GB    price:816.00      salecount:1
+name:产品名称：KingFast/金速 P600 120G    parse:硬盘容量: 120GB    price:599.00      salecount:0
+name:产品名称：PLEXTOR/浦科特 PX-256M...    parse:硬盘容量: 256GB    price:999.00      salecount:75
+name:产品名称：Intel/英特尔 750 1.2TB...    parse:接口类型: PCI-E    price:6399.00      salecount:0
+name:产品名称：KingFast/金速 F6 128G    parse:硬盘容量: 120GB    price:399.00      salecount:0
+name:产品名称：Intel/英特尔 750 1.2TB...    parse:接口类型: PCI-E    price:6399.00      salecount:0
+name:产品名称：Transcend/创见 TS128GMT...    parse:硬盘容量: 128GB    price:899.00      salecount:6
+name:产品名称：KingFast/金速 F6 128G    parse:硬盘容量: 120GB    price:399.00      salecount:0
+name:产品名称：LITEON T10 240G    parse:硬盘容量: 240GB    price:749.00      salecount:467
+name:产品名称：ov SSDOV101-240G    parse:硬盘容量: 240GB    price:519.00      salecount:7
+name:产品名称：Transcend/创见 TS128GMT...    parse:硬盘容量: 128GB    price:899.00      salecount:6
+name:产品名称：LITEON T10 240G    parse:硬盘容量: 240GB    price:749.00      salecount:467
+name:产品名称：ov SSDOV101-240G    parse:硬盘容量: 240GB    price:519.00      salecount:7
+name:产品名称：Transcend/创见 TS256GMT...    parse:硬盘容量: 256GB    price:1399.00      salecount:0
+name:产品名称：KingFast/金速 F9 256G    parse:硬盘容量: 256GB    price:639.00      salecount:0
+name:产品名称：Gloway 战将120G    parse:硬盘容量: 120GB    price:599.00      salecount:3
+name:产品名称：Transcend/创见 TS256GMT...    parse:硬盘容量: 256GB    price:1399.00      salecount:0
+name:产品名称：KingFast/金速 F9 256G    parse:硬盘容量: 256GB    price:639.00      salecount:0
+name:产品名称：影驰 铁甲战将240G    parse:硬盘容量: 240GB    price:599.00      salecount:150
+name:产品名称：Gloway 战将120G    parse:硬盘容量: 120GB    price:599.00      salecount:3
+name:产品名称：Transcend/创见 TS256GSS...    parse:硬盘容量: 256GB    price:999.00      salecount:0
+name:产品名称：影驰 铁甲战将240G    parse:硬盘容量: 240GB    price:599.00      salecount:150
+name:产品名称：PLEXTOR/浦科特 浦科特 P...    parse:硬盘容量: 512GB    price:1499.00      salecount:0
+name:产品名称：Transcend/创见 TS256GSS...    parse:硬盘容量: 256GB    price:999.00      salecount:0
+name:产品名称：KingFast/金速 F2 32G    parse:硬盘容量: 32GB    price:149.00      salecount:0
+name:产品名称：PLEXTOR/浦科特 浦科特 P...    parse:硬盘容量: 512GB    price:1499.00      salecount:0
+name:产品名称：Transcend/创见 TS64GMTS...    parse:硬盘容量: 64GB    price:499.00      salecount:3
+name:产品名称：KingFast/金速 F2 32G    parse:硬盘容量: 32GB    price:149.00      salecount:0
+name:产品名称：CRUCIAL/镁光 CT525MX300...    parse:硬盘容量: 525G    price:1059.00      salecount:112
+name:产品名称：PLEXTOR/浦科特 PX-128M...    parse:硬盘容量: 128GB    price:599.00      salecount:0
+name:产品名称：Transcend/创见 TS64GMTS...    parse:硬盘容量: 64GB    price:499.00      salecount:3
+name:产品名称：CRUCIAL/镁光 CT525MX300...    parse:硬盘容量: 525G    price:1059.00      salecount:112
+name:产品名称：PLEXTOR/浦科特 PX-128M...    parse:硬盘容量: 128GB    price:599.00      salecount:0
+name:产品名称：士必得 K7N-240G    parse:接口类型: ngff    price:890.00      salecount:5
+name:产品名称：偲冠特 SATA 卧式 16GB DO...    parse:硬盘容量: 16GB    price:139.00      salecount:0
+name:产品名称：Intel/英特尔 Optane/傲...    parse:硬盘容量: 16GB    price:559.00      salecount:36
+name:产品名称：士必得 K7N-240G    parse:接口类型: ngff    price:890.00      salecount:5
+name:产品名称：偲冠特 SATA 卧式 16GB DO...    parse:硬盘容量: 16GB    price:139.00      salecount:0
+name:产品名称：Kingston/金士顿 SA400S3...    parse:硬盘容量: 120GB    price:399.00      salecount:276
+name:产品名称：Intel/英特尔 Optane/傲...    parse:硬盘容量: 16GB    price:559.00      salecount:36
+name:产品名称：士必得 K7N8-240G    parse:接口类型: ngff    price:910.00      salecount:9
+name:产品名称：偲冠特 SATA 卧式 64GB DO...    parse:硬盘容量: 64GB    price:259.00      salecount:0
+name:产品名称：Kingston/金士顿 SA400S3...    parse:硬盘容量: 120GB    price:399.00      salecount:276
+name:产品名称：士必得 K7N8-240G    parse:接口类型: ngff    price:910.00      salecount:9
+name:产品名称：偲冠特 SATA 卧式 64GB DO...    parse:硬盘容量: 64GB    price:259.00      salecount:0
+name:产品名称：ov SSDOV21XSATA-120G    parse:硬盘容量: 120GB    price:429.00      salecount:7
+name:产品名称：Transcend/创见 TS960GJD...    parse:硬盘容量: 960g    price:4999.00      salecount:2
+name:产品名称：偲冠特 M300 64GB    parse:硬盘容量: 64GB    price:239.00      salecount:1
+name:产品名称：Toshiba/东芝 Q200 EX (...    parse:硬盘容量: 240GB    price:659.00      salecount:122
+name:产品名称：ov SSDOV21XSATA-120G    parse:硬盘容量: 120GB    price:429.00      salecount:7
+name:产品名称：Transcend/创见 TS960GJD...    parse:硬盘容量: 960g    price:4999.00      salecount:2
+name:产品名称：偲冠特 M300 64GB    parse:硬盘容量: 64GB    price:239.00      salecount:1
+name:产品名称：Toshiba/东芝 Q200 EX (...    parse:硬盘容量: 240GB    price:659.00      salecount:122
+name:产品名称：AData/威刚 SX930 120G    parse:硬盘容量: 120GB    price:529.00      salecount:1
+name:产品名称：偲冠特 M300 500GB    parse:硬盘容量: 500GB    price:999.00      salecount:0
+name:产品名称：AData/威刚 SX930 120G    parse:硬盘容量: 120GB    price:529.00      salecount:1
+name:产品名称：士必得 H5-120G    parse:硬盘容量: 120GB    price:339.00      salecount:7
+name:产品名称：偲冠特 M300 500GB    parse:硬盘容量: 500GB    price:999.00      salecount:0
+name:产品名称：士必得 T6-120G    parse:硬盘容量: 120GB    price:499.00      salecount:1324
+name:产品名称：偲冠特 M300 32GB    parse:硬盘容量: 32GB    price:149.00      salecount:1
+name:产品名称：士必得 H5-120G    parse:硬盘容量: 120GB    price:339.00      salecount:7
+name:产品名称：KingSpec/金胜维 NGFF 64...    parse:硬盘容量: 64GB    price:238.00      salecount:4
+name:产品名称：士必得 T6-120G    parse:硬盘容量: 120GB    price:499.00      salecount:1324
+name:产品名称：偲冠特 M300 32GB    parse:硬盘容量: 32GB    price:149.00      salecount:1
+name:产品名称：KingSpec/金胜维 ZIF模块...    parse:硬盘容量: 64GB    price:369.00      salecount:1
+name:产品名称：KingSpec/金胜维 NGFF 64...    parse:硬盘容量: 64GB    price:238.00      salecount:4
+name:产品名称：Toshiba/东芝 Q300 480G    parse:硬盘容量: 480GB    price:1199.00      salecount:46
+name:硬盘容量: 240GB    parse:品牌: 特科芯    price:529.00      salecount:4
+name:产品名称：KingSpec/金胜维 ZIF模块...    parse:硬盘容量: 64GB    price:369.00      salecount:1
+name:产品名称：偲冠特 M200 64GB    parse:硬盘容量: 64GB    price:239.00      salecount:2
+name:产品名称：Toshiba/东芝 Q300 480G    parse:硬盘容量: 480GB    price:1199.00      salecount:46
+name:硬盘容量: 240GB    parse:品牌: 特科芯    price:529.00      salecount:4
+name:产品名称：偲冠特 M200 64GB    parse:硬盘容量: 64GB    price:239.00      salecount:2
+name:产品名称：偲冠特 M200 128GB    parse:硬盘容量: 128GB    price:359.00      salecount:2
+name:产品名称：士必得 Lighting 6246T128...    parse:接口类型: SATA 3    price:552.00      salecount:3
+name:产品名称：KingSpec/金胜维 宽温mSA...    parse:硬盘容量: 32GB    price:460.00      salecount:1
+name:产品名称：Sandisk/闪迪 SDSSDA-12...    parse:硬盘容量: 120GB    price:372.00      salecount:281
+name:产品名称：偲冠特 M200 128GB    parse:硬盘容量: 128GB    price:359.00      salecount:2
+name:产品名称：士必得 Lighting 6246T128...    parse:接口类型: SATA 3    price:552.00      salecount:3
+name:产品名称：KingSpec/金胜维 宽温mSA...    parse:硬盘容量: 32GB    price:460.00      salecount:1
+name:产品名称：Sandisk/闪迪 SDSSDA-12...    parse:硬盘容量: 120GB    price:372.00      salecount:281
+name:硬盘容量: 128GB    parse:尺寸: 2.5英寸    price:349.00      salecount:13
+name:产品名称：KingSpec/金胜维 MSATA 2...    parse:硬盘容量: 256GB    price:699.00      salecount:3
+name:产品名称：KingSpec/金胜维 NGFF 12...    parse:硬盘容量: 128GB    price:425.00      salecount:3
+name:硬盘容量: 128GB    parse:尺寸: 2.5英寸    price:349.00      salecount:13
+name:产品名称：KingSpec/金胜维 MSATA 2...    parse:硬盘容量: 256GB    price:699.00      salecount:3
+name:产品名称：KingSpec/金胜维 NGFF 12...    parse:硬盘容量: 128GB    price:425.00      salecount:3
+name:产品名称：AData/威刚 SU800 256G    parse:硬盘容量: 256GB    price:599.00      salecount:89
+name:硬盘容量: 64GB    parse:尺寸: 其他    price:238.00      salecount:11
+name:产品名称：Kingston/金士顿 固态硬盘    parse:硬盘容量: 120GB    price:579.00      salecount:21
+name:硬盘容量: 120GB    parse:尺寸: 2.5英寸    price:338.00      salecount:0
+name:产品名称：AData/威刚 SU800 256G    parse:硬盘容量: 256GB    price:599.00      salecount:89
+name:硬盘容量: 64GB    parse:尺寸: 其他    price:238.00      salecount:11
+name:产品名称：Kingston/金士顿 固态硬盘    parse:硬盘容量: 120GB    price:579.00      salecount:21
+name:硬盘容量: 120GB    parse:尺寸: 2.5英寸    price:338.00      salecount:0
+name:产品名称：KingSpec/金胜维 T系列2....    parse:硬盘容量: 120GB    price:328.00      salecount:3
+name:产品名称：士必得 Lighting 6246T256...    parse:接口类型: SATA 3    price:962.00      salecount:0
+name:硬盘容量: 128GB    parse:尺寸: 其他    price:368.00      salecount:0
+name:产品名称：tigo/金泰克 S300 120G    parse:硬盘容量: 120GB    price:399.00      salecount:349
+name:产品名称：KingSpec/金胜维 T系列2....    parse:硬盘容量: 120GB    price:328.00      salecount:3
+name:产品名称：士必得 Lighting 6246T256...    parse:接口类型: SATA 3    price:962.00      salecount:0
+name:硬盘容量: 128GB    parse:尺寸: 其他    price:368.00      salecount:0
+name:产品名称：tigo/金泰克 S300 120G    parse:硬盘容量: 120GB    price:399.00      salecount:349
+name:产品名称：KingFast/金速 F6 64G    parse:硬盘容量: 60GB    price:269.00      salecount:0
+name:产品名称：士必得 K7N8-120G    parse:接口类型: ngff    price:578.00      salecount:1
+name:颜色分类: 灰    parse:接口类型: usb type-c    price:189.00      salecount:0
+name:产品名称：KingFast/金速 F6 64G    parse:硬盘容量: 60GB    price:269.00      salecount:0
+name:产品名称：士必得 K7N8-120G    parse:接口类型: ngff    price:578.00      salecount:1
+name:颜色分类: 灰    parse:接口类型: usb type-c    price:189.00      salecount:0
+name:产品名称：Sandisk/闪迪 SDSSDA-24...    parse:硬盘容量: 240GB    price:799.00      salecount:115
+name:产品名称：KingFast/金速 F9M 256GB    parse:硬盘容量: 256GB    price:639.00      salecount:0
+name:产品名称：KingSpec/金胜维 ZIF模块...    parse:硬盘容量: 128GB    price:599.00      salecount:1
+name:硬盘容量: 64GB    parse:尺寸: PCI-E    price:258.00      salecount:0
+name:产品名称：Sandisk/闪迪 SDSSDA-24...    parse:硬盘容量: 240GB    price:799.00      salecount:115
+name:产品名称：KingFast/金速 F9M 256GB    parse:硬盘容量: 256GB    price:639.00      salecount:0
+name:产品名称：KingSpec/金胜维 ZIF模块...    parse:硬盘容量: 128GB    price:599.00      salecount:1
+name:硬盘容量: 64GB    parse:尺寸: PCI-E    price:258.00      salecount:0
+name:硬盘容量: 120GB    parse:尺寸: 其他    price:398.00      salecount:0
+name:产品名称：Gloway 猛将60G    parse:硬盘容量: 60GB    price:399.00      salecount:2229
+name:产品名称：美商海盗船 CSSD-F480GBM...    parse:硬盘容量: 480GB    price:2799.00      salecount:0
+name:产品名称：KingSpec/金胜维 MSATA 1...    parse:硬盘容量: 128GB    price:469.00      salecount:7
+name:硬盘容量: 120GB    parse:尺寸: 其他    price:398.00      salecount:0
+name:产品名称：Gloway 猛将60G    parse:硬盘容量: 60GB    price:399.00      salecount:2229
+name:产品名称：美商海盗船 CSSD-F480GBM...    parse:硬盘容量: 480GB    price:2799.00      salecount:0
+name:产品名称：KingSpec/金胜维 MSATA 1...    parse:硬盘容量: 128GB    price:469.00      salecount:7
+name:硬盘容量: 64GB    parse:尺寸: 2.5英寸    price:268.00      salecount:0
+name:产品名称：LITEON T10 120G    parse:硬盘容量: 120GB    price:599.00      salecount:161
+name:产品名称：Lenovo/联想 超级盘240G    parse:硬盘容量: 240GB    price:842.00      salecount:5
+name:硬盘容量: 64GB    parse:尺寸: 2.5英寸    price:268.00      salecount:0
+name:产品名称：LITEON T10 120G    parse:硬盘容量: 120GB    price:599.00      salecount:161
+name:产品名称：AData/威刚 SX8000 512G    parse:硬盘容量: 其他/other    price:1899.00      salecount:0
+name:产品名称：Lenovo/联想 超级盘240G    parse:硬盘容量: 240GB    price:842.00      salecount:5
+name:产品名称：偲冠特 T500 32GB    parse:硬盘容量: 32GB    price:159.00      salecount:3
+name:产品名称：AData/威刚 SX8000 512G    parse:硬盘容量: 其他/other    price:1899.00      salecount:0
+name:产品名称：KingSpec/金胜维 MSATA 半...    parse:硬盘容量: 64GB    price:369.00      salecount:5
+name:产品名称：偲冠特 T500 32GB    parse:硬盘容量: 32GB    price:159.00      salecount:3
+name:产品名称：AData/威刚 SU800 128G    parse:硬盘容量: 128GB    price:369.00      salecount:378
+name:产品名称：AData/威刚 XPG SX930 24...    parse:硬盘容量: 240GB    price:799.00      salecount:0
+name:产品名称：KingSpec/金胜维 MSATA 半...    parse:硬盘容量: 64GB    price:369.00      salecount:5
+name:颜色分类: 蓝色    parse:接口类型: SATA 3    price:649.00      salecount:1
+name:产品名称：AData/威刚 SU800 128G    parse:硬盘容量: 128GB    price:369.00      salecount:378
+name:产品名称：AData/威刚 XPG SX930 24...    parse:硬盘容量: 240GB    price:799.00      salecount:0
+name:产品名称：KingSpec/金胜维 奇龙2....    parse:硬盘容量: 128GB    price:369.00      salecount:0
+name:颜色分类: 蓝色    parse:接口类型: SATA 3    price:649.00      salecount:1
+name:产品名称：HP/惠普 SSD S700 Pro 2....    parse:硬盘容量: 128GB    price:479.00      salecount:15
+name:产品名称：KingSpec/金胜维 奇龙2....    parse:硬盘容量: 128GB    price:369.00      salecount:0
+name:产品名称：KingFast/金速 G-One 25...    parse:硬盘容量: 256GB    price:599.00      salecount:0
+name:产品名称：Fujitsu/富士通 F200-12...    parse:硬盘容量: 120GB    price:399.00      salecount:185
+name:产品名称：HP/惠普 SSD S700 Pro 2....    parse:硬盘容量: 128GB    price:479.00      salecount:15
+name:产品名称：Apacer/宇瞻 AP240GZ280    parse:硬盘容量: 240GB    price:1199.00      salecount:0
+name:产品名称：KingFast/金速 G-One 25...    parse:硬盘容量: 256GB    price:599.00      salecount:0
+name:产品名称：Fujitsu/富士通 F200-12...    parse:硬盘容量: 120GB    price:399.00      salecount:185
+name:产品名称：Apacer/宇瞻 AP240GZ280    parse:硬盘容量: 240GB    price:1199.00      salecount:0
+name:产品名称：士必得 M3-90G    parse:硬盘容量: 90GB    price:359.00      salecount:1405
+name:产品名称：美商海盗船 MP500 480GB    parse:硬盘容量: 480GB    price:2699.00      salecount:1
+name:产品名称：烽火狼 士必得 M3-90G    parse:硬盘容量: 90GB    price:245.00      salecount:2
+name:产品名称：士必得 M3-90G    parse:硬盘容量: 90GB    price:359.00      salecount:1405
+name:产品名称：美商海盗船 MP500 480GB    parse:硬盘容量: 480GB    price:2699.00      salecount:1
+name:产品名称：KingSpec/金胜维 PCIE 3....    parse:硬盘容量: 其他/other    price:9999.00      salecount:0
+name:产品名称：烽火狼 士必得 M3-90G    parse:硬盘容量: 90GB    price:245.00      salecount:2
+name:产品名称：Kingston/金士顿 SV300S3...    parse:硬盘容量: 240GB    price:649.00      salecount:179
+name:产品名称：AData/威刚 SU800 2280 2...    parse:硬盘容量: 256GB    price:599.00      salecount:0
+name:产品名称：KingSpec/金胜维 PCIE 3....    parse:硬盘容量: 其他/other    price:9999.00      salecount:0
+name:产品名称：LITEON 128V5G+ M.2 228...    parse:硬盘容量: 128GB    price:369.00      salecount:0
+name:产品名称：Kingston/金士顿 SV300S3...    parse:硬盘容量: 240GB    price:649.00      salecount:179
+name:产品名称：AData/威刚 SU800 2280 2...    parse:硬盘容量: 256GB    price:599.00      salecount:0
+name:产品名称：Intel/英特尔 6000P 128G    parse:硬盘容量: 128GB    price:499.00      salecount:2
+name:产品名称：LITEON 128V5G+ M.2 228...    parse:硬盘容量: 128GB    price:369.00      salecount:0
+name:产品名称：CRUCIAL/镁光 CT525MX300...    parse:硬盘容量: 525G    price:1259.00      salecount:0
+name:产品名称：Intel/英特尔 6000P 128G    parse:硬盘容量: 128GB    price:499.00      salecount:2
+name:产品名称：KingFast/金速 G-One    parse:硬盘容量: 128GB    price:439.00      salecount:3
+name:产品名称：Kingston/金士顿 SUV400S...    parse:硬盘容量: 240GB    price:599.00      salecount:859
+name:产品名称：CRUCIAL/镁光 CT525MX300...    parse:硬盘容量: 525G    price:1259.00      salecount:0
+name:产品名称：KingFast/金速 G-One    parse:硬盘容量: 128GB    price:439.00      salecount:3
+name:产品名称：Kingston/金士顿 SUV400S...    parse:硬盘容量: 240GB    price:599.00      salecount:861
+name:产品名称：StARS WAY N200    parse:硬盘容量: 128GB    price:329.00      salecount:0
+name:产品名称：LITEON 睿速 V5S 128G    parse:硬盘容量: 128GB    price:349.00      salecount:4
+name:产品名称：StARS WAY N200    parse:硬盘容量: 128GB    price:329.00      salecount:0
+name:产品名称：LITEON 睿速 V5S 128G    parse:硬盘容量: 128GB    price:349.00      salecount:4
+name:产品名称：KingFast/金速 F9M 512G    parse:硬盘容量: 512GB    price:1239.00      salecount:1
+name:产品名称：美商海盗船 MP500 480G    parse:硬盘容量: 480GB    price:2699.00      salecount:0
+name:产品名称：KingFast/金速 F9M 512G    parse:硬盘容量: 512GB    price:1239.00      salecount:1
+name:产品名称：美商海盗船 MP500 480G    parse:硬盘容量: 480GB    price:2699.00      salecount:0
+name:产品名称：偲冠特 SATA 卧式 32GB DO...    parse:硬盘容量: 32GB    price:199.00      salecount:0
+name:产品名称：KingFast/金速 K6 128G    parse:硬盘容量: 128GB    price:419.00      salecount:0
+name:产品名称：CRUCIAL/镁光 CT275MX300...    parse:硬盘容量: 275GB    price:709.00      salecount:69
+name:产品名称：HYPERX SHSS37A 240G    parse:硬盘容量: 240GB    price:1000.00      salecount:5
+name:产品名称：偲冠特 SATA 卧式 32GB DO...    parse:硬盘容量: 32GB    price:199.00      salecount:0
+name:产品名称：KingFast/金速 K6 128G    parse:硬盘容量: 128GB    price:419.00      salecount:0
+name:产品名称：CRUCIAL/镁光 CT275MX300...    parse:硬盘容量: 275GB    price:709.00      salecount:69
+name:产品名称：HYPERX SHSS37A 240G    parse:硬盘容量: 240GB    price:1000.00      salecount:5
+name:产品名称：偲冠特 M300 128GB    parse:硬盘容量: 128GB    price:359.00      salecount:0
+name:产品名称：HYPERX SHPM2280P2H/480G    parse:硬盘容量: 480GB    price:2999.00      salecount:0
+name:产品名称：偲冠特 M300 128GB    parse:硬盘容量: 128GB    price:359.00      salecount:0
+name:产品名称：Sandisk/闪迪 SDSSDA-24...    parse:硬盘容量: 240GB    price:549.00      salecount:925
+name:产品名称：HYPERX SHPM2280P2H/480G    parse:硬盘容量: 480GB    price:2999.00      salecount:0
+name:产品名称：偲冠特 SATA 卧式 8GB DOM    parse:硬盘容量: 8GB    price:109.00      salecount:0
+name:产品名称：Sandisk/闪迪 SDSSDA-24...    parse:硬盘容量: 240GB    price:549.00      salecount:925
+name:产品名称：HYPERX SHSS37A 480G    parse:硬盘容量: 480GB    price:1599.00      salecount:4
+name:产品名称：偲冠特 SATA 卧式 8GB DOM    parse:硬盘容量: 8GB    price:109.00      salecount:0
+name:产品名称：HYPERX SHSS37A 480G    parse:硬盘容量: 480GB    price:1599.00      salecount:4
+name:产品名称：偲冠特 T500 16GB    parse:硬盘容量: 16GB    price:119.00      salecount:1
+name:产品名称：Toshiba/东芝 Q300 240G    parse:硬盘容量: 240GB    price:569.99      salecount:132
+name:产品名称：ThinkPad 31063265    parse:硬盘容量: 240GB    price:1099.00      salecount:0
+name:产品名称：偲冠特 T500 16GB    parse:硬盘容量: 16GB    price:119.00      salecount:1
+name:产品名称：Toshiba/东芝 Q300 240G    parse:硬盘容量: 240GB    price:569.99      salecount:132
+name:产品名称：ThinkPad 31063265    parse:硬盘容量: 240GB    price:1099.00      salecount:0
+name:产品名称：KingFast/金速 F6 PRO 12...    parse:硬盘容量: 120GB    price:399.00      salecount:0
+name:产品名称：Kingred/金力得 SA240G52...    parse:接口类型: SATA 3    price:569.00      salecount:0
+name:产品名称：KingFast/金速 F6 PRO 12...    parse:硬盘容量: 120GB    price:399.00      salecount:0
+name:产品名称：Samsung/三星 MZ-75E250...    parse:硬盘容量: 250GB    price:699.00      salecount:1632
+name:产品名称：PLEXTOR/浦科特 PX-256M...    parse:硬盘容量: 256GB    price:859.00      salecount:737
+name:产品名称：PLEXTOR/浦科特 PX-256M...    parse:硬盘容量: 256GB    price:859.00      salecount:737
+name:产品名称：Lenovo/联想 SL700 固态硬...    parse:硬盘容量: 256GB    price:941.00      salecount:164
+name:产品名称：Lenovo/联想 SL700 固态硬...    parse:硬盘容量: 256GB    price:941.00      salecount:164
+name:产品名称：Lenovo/联想 SL700 固态硬...    parse:硬盘容量: 128GB    price:487.00      salecount:205
+name:产品名称：Lenovo/联想 SL700 固态硬...    parse:硬盘容量: 128GB    price:487.00      salecount:205
+name:产品名称：Samsung/三星 MZ-75E500...    parse:硬盘容量: 500GB    price:1399.00      salecount:121
+name:产品名称：Samsung/三星 MZ-75E500...    parse:硬盘容量: 500GB    price:1399.00      salecount:121
+name:产品名称：影驰 铁甲战将 120GB    parse:硬盘容量: 120GB    price:399.00      salecount:1245
+name:产品名称：影驰 铁甲战将 120GB    parse:硬盘容量: 120GB    price:399.00      salecount:1245
+name:产品名称：PLEXTOR/浦科特 PX-128M...    parse:硬盘容量: 128GB    price:449.00      salecount:221
+name:产品名称：PLEXTOR/浦科特 PX-128M...    parse:硬盘容量: 128GB    price:449.00      salecount:221
+name:产品名称：Samsung/三星 MZ-M5E250    parse:硬盘容量: 250GB    price:998.00      salecount:105
+name:产品名称：Samsung/三星 MZ-M5E250    parse:硬盘容量: 250GB    price:998.00      salecount:105
+name:产品名称：影驰 铠甲战将 128gb    parse:硬盘容量: 128GB    price:399.00      salecount:164
+name:产品名称：影驰 铠甲战将 128gb    parse:硬盘容量: 128GB    price:399.00      salecount:164
+name:产品名称：影驰 铁甲战将480G    parse:硬盘容量: 480GB    price:999.00      salecount:185
+name:产品名称：影驰 铁甲战将480G    parse:硬盘容量: 480GB    price:999.00      salecount:185
+name:产品名称：PLEXTOR/浦科特 PX-256M...    parse:硬盘容量: 256GB    price:999.00      salecount:74
+name:产品名称：PLEXTOR/浦科特 PX-256M...    parse:硬盘容量: 256GB    price:999.00      salecount:74
+name:产品名称：LITEON T10 240G    parse:硬盘容量: 240GB    price:749.00      salecount:469
+name:产品名称：LITEON T10 240G    parse:硬盘容量: 240GB    price:749.00      salecount:469
+name:产品名称：影驰 铁甲战将240G    parse:硬盘容量: 240GB    price:599.00      salecount:153
+name:产品名称：影驰 铁甲战将240G    parse:硬盘容量: 240GB    price:599.00      salecount:153
+name:产品名称：CRUCIAL/镁光 CT525MX300...    parse:硬盘容量: 525G    price:1059.00      salecount:114
+name:产品名称：CRUCIAL/镁光 CT525MX300...    parse:硬盘容量: 525G    price:1059.00      salecount:114
+name:产品名称：Kingston/金士顿 SA400S3...    parse:硬盘容量: 120GB    price:399.00      salecount:271
+name:产品名称：Kingston/金士顿 SA400S3...    parse:硬盘容量: 120GB    price:399.00      salecount:271
+name:产品名称：Toshiba/东芝 Q200 EX (...    parse:硬盘容量: 240GB    price:659.00      salecount:123
+name:产品名称：Toshiba/东芝 Q200 EX (...    parse:硬盘容量: 240GB    price:659.00      salecount:123
+name:产品名称：士必得 T6-120G    parse:硬盘容量: 120GB    price:499.00      salecount:1316
+name:产品名称：士必得 T6-120G    parse:硬盘容量: 120GB    price:499.00      salecount:1316
+name:产品名称：Toshiba/东芝 Q300 480G    parse:硬盘容量: 480GB    price:1199.00      salecount:46
+name:产品名称：Toshiba/东芝 Q300 480G    parse:硬盘容量: 480GB    price:1199.00      salecount:46
+name:产品名称：Sandisk/闪迪 SDSSDA-12...    parse:硬盘容量: 120GB    price:372.00      salecount:281
+name:产品名称：Sandisk/闪迪 SDSSDA-12...    parse:硬盘容量: 120GB    price:372.00      salecount:281
+name:产品名称：AData/威刚 SU800 256G    parse:硬盘容量: 256GB    price:599.00      salecount:74
+name:产品名称：AData/威刚 SU800 256G    parse:硬盘容量: 256GB    price:599.00      salecount:74
+name:产品名称：tigo/金泰克 S300 120G    parse:硬盘容量: 120GB    price:399.00      salecount:361
+name:产品名称：tigo/金泰克 S300 120G    parse:硬盘容量: 120GB    price:399.00      salecount:361
+name:产品名称：Sandisk/闪迪 SDSSDA-24...    parse:硬盘容量: 240GB    price:799.00      salecount:115
+name:产品名称：Sandisk/闪迪 SDSSDA-24...    parse:硬盘容量: 240GB    price:799.00      salecount:115
+name:产品名称：Gloway 猛将60G    parse:硬盘容量: 60GB    price:399.00      salecount:2207
+name:产品名称：Gloway 猛将60G    parse:硬盘容量: 60GB    price:399.00      salecount:2207
+name:产品名称：LITEON T10 120G    parse:硬盘容量: 120GB    price:599.00      salecount:162
+name:产品名称：LITEON T10 120G    parse:硬盘容量: 120GB    price:599.00      salecount:162
+name:产品名称：AData/威刚 SU800 128G    parse:硬盘容量: 128GB    price:369.00      salecount:377
+name:产品名称：AData/威刚 SU800 128G    parse:硬盘容量: 128GB    price:369.00      salecount:377
+name:产品名称：Fujitsu/富士通 F200-12...    parse:硬盘容量: 120GB    price:399.00      salecount:189
+name:产品名称：Fujitsu/富士通 F200-12...    parse:硬盘容量: 120GB    price:399.00      salecount:189
+name:产品名称：士必得 M3-90G    parse:硬盘容量: 90GB    price:359.00      salecount:1391
+name:产品名称：士必得 M3-90G    parse:硬盘容量: 90GB    price:359.00      salecount:1391
+name:产品名称：Kingston/金士顿 SV300S3...    parse:硬盘容量: 240GB    price:649.00      salecount:179
+name:产品名称：Kingston/金士顿 SV300S3...    parse:硬盘容量: 240GB    price:649.00      salecount:179
+name:产品名称：Kingston/金士顿 SUV400S...    parse:硬盘容量: 240GB    price:599.00      salecount:862
+name:产品名称：Kingston/金士顿 SUV400S...    parse:硬盘容量: 240GB    price:599.00      salecount:862
+name:产品名称：LITEON/建兴 T10    parse:硬盘容量: 240GB    price:799.00      salecount:294
+name:产品名称：LITEON/建兴 T10    parse:硬盘容量: 240GB    price:799.00      salecount:294
+name:产品名称：CRUCIAL/镁光 CT275MX300...    parse:硬盘容量: 275GB    price:709.00      salecount:69
+name:产品名称：CRUCIAL/镁光 CT275MX300...    parse:硬盘容量: 275GB    price:709.00      salecount:69
+name:产品名称：Sandisk/闪迪 SDSSDA-24...    parse:硬盘容量: 240GB    price:549.00      salecount:923
+name:产品名称：Sandisk/闪迪 SDSSDA-24...    parse:硬盘容量: 240GB    price:549.00      salecount:923
+name:产品名称：Toshiba/东芝 Q300 240G    parse:硬盘容量: 240GB    price:569.99      salecount:129
+name:产品名称：Toshiba/东芝 Q300 240G    parse:硬盘容量: 240GB    price:569.99      salecount:129
+name:产品名称：Intel/英特尔 Optane 傲腾...    parse:硬盘容量: 32GB    price:799.00      salecount:86
+name:产品名称：Intel/英特尔 Optane 傲腾...    parse:硬盘容量: 32GB    price:799.00      salecount:86
+name:产品名称：Kingston/金士顿 UV400 2...    parse:硬盘容量: 240GB    price:559.00      salecount:190
+name:产品名称：Kingston/金士顿 UV400 2...    parse:硬盘容量: 240GB    price:559.00      salecount:190
+name:产品名称：Apacer/宇瞻 黑豹120G    parse:硬盘容量: 120GB    price:459.00      salecount:379
+name:产品名称：Apacer/宇瞻 黑豹120G    parse:硬盘容量: 120GB    price:459.00      salecount:379
+name:产品名称：Toshiba/东芝 A100 240G    parse:硬盘容量: 240GB    price:599.00      salecount:1462
+name:产品名称：Toshiba/东芝 A100 240G    parse:硬盘容量: 240GB    price:599.00      salecount:1462
+name:产品名称：ov SSDOV13SATA-120G    parse:硬盘容量: 120GB    price:319.00      salecount:450
+name:产品名称：ov SSDOV13SATA-120G    parse:硬盘容量: 120GB    price:319.00      salecount:450
+name:产品名称：Samsung/三星 MZ-750120...    parse:硬盘容量: 120GB    price:459.00      salecount:1492
+name:产品名称：Samsung/三星 MZ-750120...    parse:硬盘容量: 120GB    price:459.00      salecount:1492
+name:产品名称：eekoo/壹酷 K100    parse:硬盘容量: 120GB    price:500.00      salecount:119
+name:产品名称：eekoo/壹酷 K100    parse:硬盘容量: 120GB    price:500.00      salecount:119
+name:产品名称：Lenovo/联想 ST510(120G...    parse:硬盘容量: 120GB    price:499.00      salecount:765
+name:产品名称：Lenovo/联想 ST510(120G...    parse:硬盘容量: 120GB    price:499.00      salecount:765
+name:产品名称：Toshiba/东芝 A100 120G    parse:硬盘容量: 120GB    price:419.00      salecount:644
+name:产品名称：Toshiba/东芝 A100 120G    parse:硬盘容量: 120GB    price:419.00      salecount:644
+name:产品名称：Intel/英特尔 固态硬盘    parse:硬盘容量: 其他/other    price:799.00      salecount:70
+name:产品名称：Intel/英特尔 固态硬盘    parse:硬盘容量: 其他/other    price:799.00      salecount:70
+name:产品名称：PNY/必恩威 幻象120G    parse:硬盘容量: 120GB    price:599.00      salecount:81
+name:产品名称：PNY/必恩威 幻象120G    parse:硬盘容量: 120GB    price:599.00      salecount:81
+name:产品名称：Lenovo/联想 ST510(240G...    parse:硬盘容量: 240GB    price:599.00      salecount:95
+name:产品名称：Lenovo/联想 ST510(240G...    parse:硬盘容量: 240GB    price:599.00      salecount:95
+name:产品名称：精亿 唐将120G固态硬盘    parse:硬盘容量: 120GB    price:580.00      salecount:49
+name:产品名称：精亿 唐将120G固态硬盘    parse:硬盘容量: 120GB    price:580.00      salecount:49
+name:产品名称：Gloway 猛将32G    parse:硬盘容量: 32GB    price:299.00      salecount:1403
+name:产品名称：Gloway 猛将32G    parse:硬盘容量: 32GB    price:299.00      salecount:1403
+name:产品名称：eekoo/壹酷 SSD 120G    parse:硬盘容量: 120GB    price:500.00      salecount:1719
+name:产品名称：eekoo/壹酷 SSD 120G    parse:硬盘容量: 120GB    price:500.00      salecount:1719
+name:产品名称：ShineDisk M756 120G    parse:硬盘容量: 120GB    price:398.00      salecount:171
+name:产品名称：ShineDisk M756 120G    parse:硬盘容量: 120GB    price:398.00      salecount:171
+name:产品名称：ShineDisk M746 120G    parse:硬盘容量: 120GB    price:394.00      salecount:79
+name:产品名称：ShineDisk M746 120G    parse:硬盘容量: 120GB    price:394.00      salecount:79
+name:产品名称：Team/十铨科技 Ultra L5 ...    parse:硬盘容量: 120GB    price:299.00      salecount:198
+name:产品名称：Team/十铨科技 Ultra L5 ...    parse:硬盘容量: 120GB    price:299.00      salecount:198
+name:产品名称：烽火狼 T6-120G    parse:硬盘容量: 120GB    price:298.00      salecount:95
+name:产品名称：烽火狼 T6-120G    parse:硬盘容量: 120GB    price:298.00      salecount:95
+name:产品名称：LITEON 睿速 T9 256G    parse:硬盘容量: 256GB    price:639.99      salecount:494
+name:产品名称：LITEON 睿速 T9 256G    parse:硬盘容量: 256GB    price:639.99      salecount:494
+name:产品名称：LITEON 睿速 128G MSATA    parse:硬盘容量: 128GB    price:379.99      salecount:330
+name:产品名称：LITEON 睿速 128G MSATA    parse:硬盘容量: 128GB    price:379.99      salecount:330
+name:产品名称：Intel/英特尔 600P 256G    parse:硬盘容量: 256GB    price:769.00      salecount:515
+name:产品名称：Intel/英特尔 600P 256G    parse:硬盘容量: 256GB    price:769.00      salecount:515
+name:产品名称：Teclast/台电 SD128GBS55...    parse:硬盘容量: 128GB    price:339.00      salecount:687
+name:产品名称：Teclast/台电 SD128GBS55...    parse:硬盘容量: 128GB    price:339.00      salecount:687
+name:产品名称：Intel/英特尔 600P 128G    parse:硬盘容量: 128GB    price:465.00      salecount:518
+name:产品名称：Intel/英特尔 600P 128G    parse:硬盘容量: 128GB    price:465.00      salecount:518
+name:硬盘容量: 250GB    parse:品牌: Samsung/三星    price:699.00      salecount:507
+name:硬盘容量: 250GB    parse:品牌: Samsung/三星    price:699.00      salecount:507
+name:产品名称：Teclast/台电 SD120GB S5...    parse:硬盘容量: 120GB    price:349.00      salecount:473
+name:产品名称：Teclast/台电 SD120GB S5...    parse:硬盘容量: 120GB    price:349.00      salecount:473
+name:产品名称：tigo/金泰克 S520    parse:硬盘容量: 128GB    price:459.00      salecount:167
+name:产品名称：tigo/金泰克 S520    parse:硬盘容量: 128GB    price:459.00      salecount:167
+name:产品名称：Samsung/三星 MZ-75E250...    parse:硬盘容量: 250GB    price:699.00      salecount:1633
+name:产品名称：Samsung/三星 MZ-75E250...    parse:硬盘容量: 250GB    price:699.00      salecount:1633
+name:产品名称：PLEXTOR/浦科特 PX-256M...    parse:硬盘容量: 256GB    price:859.00      salecount:738
+name:产品名称：PLEXTOR/浦科特 PX-256M...    parse:硬盘容量: 256GB    price:859.00      salecount:738
+name:产品名称：Lenovo/联想 SL700 固态硬...    parse:硬盘容量: 256GB    price:941.00      salecount:164
+name:产品名称：Lenovo/联想 SL700 固态硬...    parse:硬盘容量: 256GB    price:941.00      salecount:164
+name:产品名称：偲冠特 M200 500GB    parse:硬盘容量: 500GB    price:1089.00      salecount:0
+name:产品名称：Lenovo/联想 SL700 固态硬...    parse:硬盘容量: 128GB    price:487.00      salecount:205
+name:产品名称：偲冠特 M200 500GB    parse:硬盘容量: 500GB    price:1089.00      salecount:0
+name:产品名称：Lenovo/联想 SL700 固态硬...    parse:硬盘容量: 128GB    price:487.00      salecount:205
+name:产品名称：士必得 H7-240G    parse:硬盘容量: 240GB    price:780.00      salecount:25
+name:产品名称：偲冠特 IDE 卧式 32GB DOM    parse:硬盘容量: 32GB    price:189.00      salecount:1
+name:产品名称：士必得 H7-240G    parse:硬盘容量: 240GB    price:780.00      salecount:25
+name:产品名称：偲冠特 IDE 卧式 32GB DOM    parse:硬盘容量: 32GB    price:189.00      salecount:1
+name:产品名称：Samsung/三星 MZ-75E500...    parse:硬盘容量: 500GB    price:1399.00      salecount:122
+name:产品名称：Samsung/三星 MZ-750120    parse:硬盘容量: 120GB    price:439.00      salecount:12
+name:产品名称：偲冠特 IDE 卧式 16GB DOM    parse:硬盘容量: 16GB    price:139.00      salecount:0
+name:产品名称：Samsung/三星 MZ-75E500...    parse:硬盘容量: 500GB    price:1399.00      salecount:122
+name:产品名称：Samsung/三星 MZ-750120    parse:硬盘容量: 120GB    price:439.00      salecount:12
+name:产品名称：偲冠特 IDE 卧式 16GB DOM    parse:硬盘容量: 16GB    price:139.00      salecount:0
+name:硬盘容量: 16GB    parse:尺寸: 其他    price:149.00      salecount:6
+name:产品名称：影驰 铁甲战将 120GB    parse:硬盘容量: 120GB    price:399.00      salecount:1248
+name:产品名称：士必得 K7M-240G    parse:接口类型: mSATA    price:825.00      salecount:21
+name:硬盘容量: 16GB    parse:尺寸: 其他    price:149.00      salecount:6
+name:产品名称：影驰 铁甲战将 120GB    parse:硬盘容量: 120GB    price:399.00      salecount:1248
+name:产品名称：士必得 K7M-240G    parse:接口类型: mSATA    price:825.00      salecount:21
+name:产品名称：偲冠特 T500 MSATA 32GB    parse:硬盘容量: 32GB    price:169.00      salecount:7
+name:产品名称：Transcend/创见 TS120GES...    parse:硬盘容量: 120GB    price:699.00      salecount:7
+name:产品名称：偲冠特 T500 MSATA 32GB    parse:硬盘容量: 32GB    price:169.00      salecount:7
+name:产品名称：PLEXTOR/浦科特 PX-128M...    parse:硬盘容量: 128GB    price:449.00      salecount:221
+name:产品名称：Transcend/创见 TS120GES...    parse:硬盘容量: 120GB    price:699.00      salecount:7
+name:产品名称：偲冠特 IDE 卧式 64GB DOM    parse:硬盘容量: 64GB    price:245.00      salecount:0
+name:产品名称：PLEXTOR/浦科特 PX-128M...    parse:硬盘容量: 128GB    price:449.00      salecount:221
+name:产品名称：Transcend/创见 TS256GMT...    parse:硬盘容量: 256GB    price:1399.00      salecount:1
+name:产品名称：偲冠特 IDE 卧式 64GB DOM    parse:硬盘容量: 64GB    price:245.00      salecount:0
+name:产品名称：Transcend/创见 TS256GMT...    parse:硬盘容量: 256GB    price:1399.00      salecount:1
+name:产品名称：偲冠特 T500 MSATA 64GB    parse:硬盘容量: 64GB    price:269.00      salecount:0
+name:产品名称：Samsung/三星 MZ-M5E250    parse:硬盘容量: 250GB    price:998.00      salecount:105
+name:产品名称：偲冠特 T500 MSATA 64GB    parse:硬盘容量: 64GB    price:269.00      salecount:0
+name:产品名称：Samsung/三星 MZ-M5E250    parse:硬盘容量: 250GB    price:998.00      salecount:105
+name:产品名称：Samsung/三星 MZ-M5E1T0...    parse:硬盘容量: 其他/other    price:3499.00      salecount:0
+name:产品名称：KingFast/金速 f6m 128g    parse:硬盘容量: 128GB    price:399.00      salecount:0
+name:产品名称：Samsung/三星 MZ-M5E1T0...    parse:硬盘容量: 其他/other    price:3499.00      salecount:0
+name:产品名称：KingFast/金速 f6m 128g    parse:硬盘容量: 128GB    price:399.00      salecount:0
+name:产品名称：影驰 铠甲战将 128gb    parse:硬盘容量: 128GB    price:399.00      salecount:167
+name:产品名称：影驰 铠甲战将 128gb    parse:硬盘容量: 128GB    price:399.00      salecount:167
+name:产品名称：Transcend/创见 TS256GES...    parse:硬盘容量: 256GB    price:1199.00      salecount:5
+name:产品名称：KingFast/金速 G-One 25...    parse:硬盘容量: 256GB    price:599.00      salecount:0
+name:产品名称：Transcend/创见 TS256GES...    parse:硬盘容量: 256GB    price:1199.00      salecount:5
+name:产品名称：KingFast/金速 G-One 25...    parse:硬盘容量: 256GB    price:599.00      salecount:0
+name:产品名称：影驰 铁甲战将480G    parse:硬盘容量: 480GB    price:999.00      salecount:185
+name:产品名称：Transcend/创见 TS480GJD...    parse:硬盘容量: 480GB    price:2999.00      salecount:1
+name:产品名称：影驰 铁甲战将480G    parse:硬盘容量: 480GB    price:999.00      salecount:185
+name:产品名称：Transcend/创见 TS480GJD...    parse:硬盘容量: 480GB    price:2999.00      salecount:1
+name:产品名称：KingFast/金速 G-One    parse:硬盘容量: 128GB    price:439.00      salecount:0
+name:产品名称：KingFast/金速 G-One    parse:硬盘容量: 128GB    price:439.00      salecount:0
+name:产品名称：PLEXTOR/浦科特 PX-256M...    parse:硬盘容量: 256GB    price:999.00      salecount:75
+name:产品名称：Transcend/创见 TS128GMT...    parse:硬盘容量: 128GB    price:899.00      salecount:6
+name:产品名称：PLEXTOR/浦科特 PX-256M...    parse:硬盘容量: 256GB    price:999.00      salecount:75
+name:产品名称：Transcend/创见 TS128GMT...    parse:硬盘容量: 128GB    price:899.00      salecount:6
+name:产品名称：LITEON 智速 120G    parse:硬盘容量: 120GB    price:459.00      salecount:8
+name:产品名称：Transcend/创见 TS256GMT...    parse:硬盘容量: 256GB    price:1399.00      salecount:0
+name:产品名称：LITEON 智速 120G    parse:硬盘容量: 120GB    price:459.00      salecount:8
+name:产品名称：LITEON T10 240G    parse:硬盘容量: 240GB    price:749.00      salecount:464
+name:产品名称：Transcend/创见 TS256GMT...    parse:硬盘容量: 256GB    price:1399.00      salecount:0
+name:产品名称：LITEON T10 240G    parse:硬盘容量: 240GB    price:749.00      salecount:464
+name:产品名称：Transcend/创见 TS256GSS...    parse:硬盘容量: 256GB    price:999.00      salecount:0
+name:产品名称：LITEON T10 480G    parse:硬盘容量: 480GB    price:1749.00      salecount:2
+name:产品名称：Transcend/创见 TS256GSS...    parse:硬盘容量: 256GB    price:999.00      salecount:0
+name:产品名称：LITEON T10 480G    parse:硬盘容量: 480GB    price:1749.00      salecount:2
+name:产品名称：影驰 铁甲战将240G    parse:硬盘容量: 240GB    price:599.00      salecount:153
+name:产品名称：Transcend/创见 TS64GMTS...    parse:硬盘容量: 64GB    price:499.00      salecount:3
+name:产品名称：影驰 铁甲战将240G    parse:硬盘容量: 240GB    price:599.00      salecount:153
+name:产品名称：Transcend/创见 TS64GMTS...    parse:硬盘容量: 64GB    price:499.00      salecount:3
+name:产品名称：烽火狼 士必得 K6M 60G    parse:硬盘容量: 60GB    price:206.00      salecount:0
+name:产品名称：士必得 K7N-240G    parse:接口类型: ngff    price:890.00      salecount:5
+name:产品名称：烽火狼 士必得 K6M 60G    parse:硬盘容量: 60GB    price:206.00      salecount:0
+name:产品名称：CRUCIAL/镁光 CT525MX300...    parse:硬盘容量: 525G    price:1059.00      salecount:114
+name:产品名称：士必得 K7N-240G    parse:接口类型: ngff    price:890.00      salecount:5
+name:产品名称：烽火狼 士必得 M3-90G    parse:硬盘容量: 90GB    price:245.00      salecount:2
+name:产品名称：CRUCIAL/镁光 CT525MX300...    parse:硬盘容量: 525G    price:1059.00      salecount:114
+name:产品名称：士必得 K7N8-240G    parse:接口类型: ngff    price:910.00      salecount:9
+name:产品名称：烽火狼 士必得 M3-90G    parse:硬盘容量: 90GB    price:245.00      salecount:2
+name:产品名称：士必得 K7N8-240G    parse:接口类型: ngff    price:910.00      salecount:9
+name:产品名称：KingFast/金速 F9M 512G    parse:硬盘容量: 512GB    price:1239.00      salecount:1
+name:产品名称：Kingston/金士顿 SA400S3...    parse:硬盘容量: 120GB    price:399.00      salecount:271
+name:产品名称：Transcend/创见 TS960GJD...    parse:硬盘容量: 960g    price:4999.00      salecount:2
+name:产品名称：KingFast/金速 F9M 512G    parse:硬盘容量: 512GB    price:1239.00      salecount:1
+name:产品名称：Kingston/金士顿 SA400S3...    parse:硬盘容量: 120GB    price:399.00      salecount:271
+name:产品名称：Transcend/创见 TS960GJD...    parse:硬盘容量: 960g    price:4999.00      salecount:2
+name:产品名称：KingFast/金速 K6 128G    parse:硬盘容量: 128GB    price:419.00      salecount:0
+name:产品名称：KingFast/金速 K6 128G    parse:硬盘容量: 128GB    price:419.00      salecount:0
+name:产品名称：Toshiba/东芝 Q200 EX (...    parse:硬盘容量: 240GB    price:659.00      salecount:123
+name:产品名称：士必得 H5-120G    parse:硬盘容量: 120GB    price:339.00      salecount:7
+name:产品名称：KingFast/金速 F9 128G    parse:硬盘容量: 128GB    price:419.00      salecount:0
+name:产品名称：Toshiba/东芝 Q200 EX (...    parse:硬盘容量: 240GB    price:659.00      salecount:123
+name:产品名称：士必得 H5-120G    parse:硬盘容量: 120GB    price:339.00      salecount:7
+name:产品名称：KingFast/金速 F9 128G    parse:硬盘容量: 128GB    price:419.00      salecount:0
+name:产品名称：士必得 Lighting 6246T128...    parse:接口类型: SATA 3    price:552.00      salecount:3
+name:产品名称：Gloway 悍将512G    parse:硬盘容量: 512GB    price:2999.00      salecount:3
+name:产品名称：士必得 T6-120G    parse:硬盘容量: 120GB    price:499.00      salecount:1316
+name:产品名称：士必得 Lighting 6246T128...    parse:接口类型: SATA 3    price:552.00      salecount:3
+name:产品名称：Gloway 悍将512G    parse:硬盘容量: 512GB    price:2999.00      salecount:3
+name:产品名称：士必得 T6-120G    parse:硬盘容量: 120GB    price:499.00      salecount:1316
+name:产品名称：士必得 Lighting 6246T256...    parse:接口类型: SATA 3    price:962.00      salecount:0
+name:产品名称：Kdata/金田 T3m-240GB    parse:硬盘容量: 240GB    price:554.00      salecount:1
+name:产品名称：Toshiba/东芝 Q300 480G    parse:硬盘容量: 480GB    price:1199.00      salecount:46
+name:产品名称：士必得 Lighting 6246T256...    parse:接口类型: SATA 3    price:962.00      salecount:0
+name:产品名称：Kdata/金田 T3m-240GB    parse:硬盘容量: 240GB    price:554.00      salecount:1
+name:产品名称：Toshiba/东芝 Q300 480G    parse:硬盘容量: 480GB    price:1199.00      salecount:46
+name:产品名称：士必得 K7N8-120G    parse:接口类型: ngff    price:578.00      salecount:1
+name:产品名称：KingFast/金速 F9M.2    parse:硬盘容量: 60GB    price:459.00      salecount:1
+name:产品名称：士必得 K7N8-120G    parse:接口类型: ngff    price:578.00      salecount:1
+name:产品名称：KingFast/金速 F9M.2    parse:硬盘容量: 60GB    price:459.00      salecount:1
+name:产品名称：Sandisk/闪迪 SDSSDA-12...    parse:硬盘容量: 120GB    price:372.00      salecount:281
+name:产品名称：KingSpec/金胜维 ZIF模块...    parse:硬盘容量: 128GB    price:599.00      salecount:1
+name:产品名称：Transcend/创见 TS1TMTS8...    parse:硬盘容量: 其他/other    price:4380.00      salecount:0
+name:产品名称：Sandisk/闪迪 SDSSDA-12...    parse:硬盘容量: 120GB    price:372.00      salecount:281
+name:产品名称：KingSpec/金胜维 ZIF模块...    parse:硬盘容量: 128GB    price:599.00      salecount:1
+name:产品名称：Transcend/创见 TS1TMTS8...    parse:硬盘容量: 其他/other    price:4380.00      salecount:0
+name:产品名称：AData/威刚 SU800 256G    parse:硬盘容量: 256GB    price:599.00      salecount:74
+name:产品名称：KingSpec/金胜维 MSATA 1...    parse:硬盘容量: 128GB    price:469.00      salecount:7
+name:产品名称：Transcend/创见 TS960GJD...    parse:硬盘容量: 960g    price:5110.00      salecount:0
+name:产品名称：AData/威刚 SU800 256G    parse:硬盘容量: 256GB    price:599.00      salecount:74
+name:产品名称：KingSpec/金胜维 MSATA 1...    parse:硬盘容量: 128GB    price:469.00      salecount:7
+name:产品名称：Transcend/创见 TS960GJD...    parse:硬盘容量: 960g    price:5110.00      salecount:0
+name:产品名称：士必得 Turbo 2243S16G    parse:接口类型: SATA 2    price:229.00      salecount:0
+name:产品名称：tigo/金泰克 S300 120G    parse:硬盘容量: 120GB    price:399.00      salecount:362
+name:产品名称：士必得 Turbo 2243S16G    parse:接口类型: SATA 2    price:229.00      salecount:0
+name:产品名称：酷兽 60g    parse:硬盘容量: 60GB    price:299.00      salecount:5
+name:产品名称：tigo/金泰克 S300 120G    parse:硬盘容量: 120GB    price:399.00      salecount:362
+name:产品名称：KingSpec/金胜维 MSATA 半...    parse:硬盘容量: 64GB    price:369.00      salecount:5
+name:产品名称：酷兽 60g    parse:硬盘容量: 60GB    price:299.00      salecount:5
+name:产品名称：KingSpec/金胜维 MSATA 半...    parse:硬盘容量: 64GB    price:369.00      salecount:5
+name:产品名称：酷兽 240g    parse:硬盘容量: 240GB    price:999.00      salecount:0
+name:产品名称：Sandisk/闪迪 SDSSDA-24...    parse:硬盘容量: 240GB    price:799.00      salecount:115
+name:产品名称：KingSpec/金胜维 奇龙2....    parse:硬盘容量: 128GB    price:369.00      salecount:0
+name:产品名称：酷兽 240g    parse:硬盘容量: 240GB    price:999.00      salecount:0
+name:产品名称：Sandisk/闪迪 SDSSDA-24...    parse:硬盘容量: 240GB    price:799.00      salecount:115
+name:产品名称：KingSpec/金胜维 奇龙2....    parse:硬盘容量: 128GB    price:369.00      salecount:0
+name:产品名称：Kdata/金田 S3m-128GB    parse:硬盘容量: 128GB    price:399.00      salecount:7
+name:产品名称：KingSpec/金胜维 PCIE 3....    parse:硬盘容量: 其他/other    price:9999.00      salecount:0
+name:产品名称：Kdata/金田 S3m-128GB    parse:硬盘容量: 128GB    price:399.00      salecount:7
+name:产品名称：Gloway 猛将60G    parse:硬盘容量: 60GB    price:399.00      salecount:2208
+name:产品名称：KingSpec/金胜维 PCIE 3....    parse:硬盘容量: 其他/other    price:9999.00      salecount:0
+name:产品名称：酷兽 C5S-EVO32G    parse:硬盘容量: 32GB    price:399.00      salecount:21
+name:产品名称：Gloway 猛将60G    parse:硬盘容量: 60GB    price:399.00      salecount:2208
+name:产品名称：Intel/英特尔 6000P 128G    parse:硬盘容量: 128GB    price:499.00      salecount:2
+name:产品名称：酷兽 C5S-EVO32G    parse:硬盘容量: 32GB    price:399.00      salecount:21
+name:产品名称：LITEON T10 120G    parse:硬盘容量: 120GB    price:599.00      salecount:162
+name:产品名称：Intel/英特尔 6000P 128G    parse:硬盘容量: 128GB    price:499.00      salecount:2
+name:产品名称：LITEON V5S 256G    parse:硬盘容量: 256GB    price:599.00      salecount:0
+name:产品名称：LITEON T10 120G    parse:硬盘容量: 120GB    price:599.00      salecount:162
+name:产品名称：LITEON V5S 256G    parse:硬盘容量: 256GB    price:599.00      salecount:0
+name:产品名称：LITEON 睿速 V5S 128G    parse:硬盘容量: 128GB    price:349.00      salecount:4
+name:产品名称：HP/惠普 789155-B21    parse:硬盘容量: 960g    price:11200.00      salecount:0
+name:产品名称：AData/威刚 SU800 128G    parse:硬盘容量: 128GB    price:369.00      salecount:378
+name:产品名称：LITEON 睿速 V5S 128G    parse:硬盘容量: 128GB    price:349.00      salecount:4
+name:产品名称：HP/惠普 789155-B21    parse:硬盘容量: 960g    price:11200.00      salecount:0
+name:产品名称：AData/威刚 SU800 128G    parse:硬盘容量: 128GB    price:369.00      salecount:378
+name:产品名称：HP/惠普 717969-B21    parse:硬盘容量: 240GB    price:3799.00      salecount:0
+name:产品名称：偲冠特 SATA 卧式 8GB DOM    parse:硬盘容量: 8GB    price:109.00      salecount:0
+name:产品名称：HP/惠普 717969-B21    parse:硬盘容量: 240GB    price:3799.00      salecount:0
+name:产品名称：Fujitsu/富士通 F200-12...    parse:硬盘容量: 120GB    price:399.00      salecount:189
+name:产品名称：偲冠特 SATA 卧式 8GB DOM    parse:硬盘容量: 8GB    price:109.00      salecount:0
+name:产品名称：HP/惠普 691868-B21    parse:硬盘容量: 800GB    price:32899.00      salecount:0
+name:产品名称：Fujitsu/富士通 F200-12...    parse:硬盘容量: 120GB    price:399.00      salecount:189
+name:产品名称：偲冠特 T500 16GB    parse:硬盘容量: 16GB    price:119.00      salecount:1
+name:产品名称：HP/惠普 691868-B21    parse:硬盘容量: 800GB    price:32899.00      salecount:0
+name:产品名称：士必得 M3-90G    parse:硬盘容量: 90GB    price:359.00      salecount:1391
+name:产品名称：偲冠特 T500 16GB    parse:硬盘容量: 16GB    price:119.00      salecount:1
+name:产品名称：HP/惠普 779164-B21    parse:硬盘容量: 200GB    price:6900.00      salecount:0
+name:产品名称：士必得 M3-90G    parse:硬盘容量: 90GB    price:359.00      salecount:1391
+name:产品名称：KingFast/金速 P600 120G    parse:硬盘容量: 120GB    price:599.00      salecount:0
+name:产品名称：HP/惠普 779164-B21    parse:硬盘容量: 200GB    price:6900.00      salecount:0
+name:产品名称：Kingston/金士顿 SV300S3...    parse:硬盘容量: 240GB    price:649.00      salecount:179
+name:产品名称：KingFast/金速 P600 120G    parse:硬盘容量: 120GB    price:599.00      salecount:0
+name:产品名称：Kingston/金士顿 SV300S3...    parse:硬盘容量: 240GB    price:649.00      salecount:179
+name:产品名称：KingFast/金速 F6 128G    parse:硬盘容量: 120GB    price:399.00      salecount:0
+name:产品名称：KingFast/金速 F6 128G    parse:硬盘容量: 120GB    price:399.00      salecount:0
+name:产品名称：Kingston/金士顿 SUV400S...    parse:硬盘容量: 240GB    price:599.00      salecount:864
+name:产品名称：Kingston/金士顿 SUV400S...    parse:硬盘容量: 240GB    price:599.00      salecount:864
+name:产品名称：KingFast/金速 F9 256G    parse:硬盘容量: 256GB    price:639.00      salecount:0
+name:产品名称：KingFast/金速 F9 256G    parse:硬盘容量: 256GB    price:639.00      salecount:0
+name:产品名称：LITEON/建兴 T10    parse:硬盘容量: 240GB    price:799.00      salecount:294
+name:产品名称：LITEON/建兴 T10    parse:硬盘容量: 240GB    price:799.00      salecount:294
+name:产品名称：KingFast/金速 F2 32G    parse:硬盘容量: 32GB    price:149.00      salecount:0
+name:产品名称：CRUCIAL/镁光 CT275MX300...    parse:硬盘容量: 275GB    price:709.00      salecount:69
+name:产品名称：KingFast/金速 F2 32G    parse:硬盘容量: 32GB    price:149.00      salecount:0
+name:产品名称：CRUCIAL/镁光 CT275MX300...    parse:硬盘容量: 275GB    price:709.00      salecount:69
+name:产品名称：偲冠特 SATA 卧式 16GB DO...    parse:硬盘容量: 16GB    price:139.00      salecount:0
+name:产品名称：Sandisk/闪迪 SDSSDA-24...    parse:硬盘容量: 240GB    price:549.00      salecount:923
+name:产品名称：偲冠特 SATA 卧式 16GB DO...    parse:硬盘容量: 16GB    price:139.00      salecount:0
+name:产品名称：Sandisk/闪迪 SDSSDA-24...    parse:硬盘容量: 240GB    price:549.00      salecount:923
+name:产品名称：偲冠特 M300 64GB    parse:硬盘容量: 64GB    price:239.00      salecount:1
+name:产品名称：偲冠特 M300 64GB    parse:硬盘容量: 64GB    price:239.00      salecount:1
+name:产品名称：Toshiba/东芝 Q300 240G    parse:硬盘容量: 240GB    price:569.99      salecount:129
+name:产品名称：偲冠特 M300 500GB    parse:硬盘容量: 500GB    price:999.00      salecount:0
+name:产品名称：Toshiba/东芝 Q300 240G    parse:硬盘容量: 240GB    price:569.99      salecount:129
+name:产品名称：偲冠特 M300 500GB    parse:硬盘容量: 500GB    price:999.00      salecount:0
+name:产品名称：KingSpec/金胜维 NGFF 64...    parse:硬盘容量: 64GB    price:238.00      salecount:4
+name:产品名称：Intel/英特尔 Optane 傲腾...    parse:硬盘容量: 32GB    price:799.00      salecount:86
+name:产品名称：KingSpec/金胜维 NGFF 64...    parse:硬盘容量: 64GB    price:238.00      salecount:4
+name:产品名称：Intel/英特尔 Optane 傲腾...    parse:硬盘容量: 32GB    price:799.00      salecount:86
+name:产品名称：KingSpec/金胜维 宽温mSA...    parse:硬盘容量: 32GB    price:460.00      salecount:1
+name:产品名称：KingSpec/金胜维 宽温mSA...    parse:硬盘容量: 32GB    price:460.00      salecount:1
+name:产品名称：Kingston/金士顿 UV400 2...    parse:硬盘容量: 240GB    price:559.00      salecount:190
+name:硬盘容量: 120GB    parse:尺寸: 2.5英寸    price:338.00      salecount:0
+name:产品名称：Kingston/金士顿 UV400 2...    parse:硬盘容量: 240GB    price:559.00      salecount:190
+name:硬盘容量: 120GB    parse:尺寸: 2.5英寸    price:338.00      salecount:0
+name:硬盘容量: 128GB    parse:尺寸: 其他    price:368.00      salecount:0
+name:产品名称：Apacer/宇瞻 黑豹120G    parse:硬盘容量: 120GB    price:459.00      salecount:379
+name:硬盘容量: 128GB    parse:尺寸: 其他    price:368.00      salecount:0
+name:产品名称：Apacer/宇瞻 黑豹120G    parse:硬盘容量: 120GB    price:459.00      salecount:379
+name:颜色分类: 灰    parse:接口类型: usb type-c    price:189.00      salecount:0
+name:颜色分类: 灰    parse:接口类型: usb type-c    price:189.00      salecount:0
+name:产品名称：Toshiba/东芝 A100 240G    parse:硬盘容量: 240GB    price:599.00      salecount:1462
+name:硬盘容量: 64GB    parse:尺寸: PCI-E    price:258.00      salecount:0
+name:产品名称：Toshiba/东芝 A100 240G    parse:硬盘容量: 240GB    price:599.00      salecount:1462
+name:硬盘容量: 64GB    parse:尺寸: PCI-E    price:258.00      salecount:0
+name:硬盘容量: 120GB    parse:尺寸: 其他    price:398.00      salecount:0
+name:产品名称：ov SSDOV13SATA-120G    parse:硬盘容量: 120GB    price:319.00      salecount:450
+name:硬盘容量: 120GB    parse:尺寸: 其他    price:398.00      salecount:0
+name:产品名称：ov SSDOV13SATA-120G    parse:硬盘容量: 120GB    price:319.00      salecount:450
+name:硬盘容量: 64GB    parse:尺寸: 2.5英寸    price:268.00      salecount:0
+name:硬盘容量: 64GB    parse:尺寸: 2.5英寸    price:268.00      salecount:0
+name:产品名称：Samsung/三星 MZ-750120...    parse:硬盘容量: 120GB    price:459.00      salecount:1483
+name:产品名称：偲冠特 T500 32GB    parse:硬盘容量: 32GB    price:159.00      salecount:3
+name:产品名称：Samsung/三星 MZ-750120...    parse:硬盘容量: 120GB    price:459.00      salecount:1483
+name:产品名称：偲冠特 T500 32GB    parse:硬盘容量: 32GB    price:159.00      salecount:3
+name:颜色分类: 蓝色    parse:接口类型: SATA 3    price:649.00      salecount:1
+name:产品名称：eekoo/壹酷 K100    parse:硬盘容量: 120GB    price:500.00      salecount:119
+name:颜色分类: 蓝色    parse:接口类型: SATA 3    price:649.00      salecount:1
+name:产品名称：eekoo/壹酷 K100    parse:硬盘容量: 120GB    price:500.00      salecount:119
+name:产品名称：KingFast/金速 G-One 25...    parse:硬盘容量: 256GB    price:599.00      salecount:0
+name:产品名称：Lenovo/联想 ST510(120G...    parse:硬盘容量: 120GB    price:499.00      salecount:765
+name:产品名称：KingFast/金速 G-One 25...    parse:硬盘容量: 256GB    price:599.00      salecount:0
+name:产品名称：Lenovo/联想 ST510(120G...    parse:硬盘容量: 120GB    price:499.00      salecount:765
+name:产品名称：烽火狼 士必得 M3-90G    parse:硬盘容量: 90GB    price:245.00      salecount:2
+name:产品名称：Toshiba/东芝 A100 120G    parse:硬盘容量: 120GB    price:419.00      salecount:644
+name:产品名称：烽火狼 士必得 M3-90G    parse:硬盘容量: 90GB    price:245.00      salecount:2
+name:产品名称：Toshiba/东芝 A100 120G    parse:硬盘容量: 120GB    price:419.00      salecount:644
+name:产品名称：KingFast/金速 F9M 512G    parse:硬盘容量: 512GB    price:1239.00      salecount:1
+name:产品名称：KingFast/金速 F9M 512G    parse:硬盘容量: 512GB    price:1239.00      salecount:1
+name:产品名称：Intel/英特尔 固态硬盘    parse:硬盘容量: 其他/other    price:799.00      salecount:70
+name:产品名称：KingFast/金速 K6 128G    parse:硬盘容量: 128GB    price:419.00      salecount:0
+name:产品名称：Intel/英特尔 固态硬盘    parse:硬盘容量: 其他/other    price:799.00      salecount:70
+name:产品名称：KingFast/金速 K6 128G    parse:硬盘容量: 128GB    price:419.00      salecount:0
+name:产品名称：PNY/必恩威 幻象120G    parse:硬盘容量: 120GB    price:599.00      salecount:82
+name:产品名称：PNY/必恩威 幻象120G    parse:硬盘容量: 120GB    price:599.00      salecount:82
+name:产品名称：Lenovo/联想 ST510(240G...    parse:硬盘容量: 240GB    price:599.00      salecount:95
+name:产品名称：Lenovo/联想 ST510(240G...    parse:硬盘容量: 240GB    price:599.00      salecount:95
+name:产品名称：精亿 唐将120G固态硬盘    parse:硬盘容量: 120GB    price:580.00      salecount:49
+name:产品名称：精亿 唐将120G固态硬盘    parse:硬盘容量: 120GB    price:580.00      salecount:49
+name:产品名称：Gloway 猛将32G    parse:硬盘容量: 32GB    price:299.00      salecount:1407
+name:产品名称：Gloway 猛将32G    parse:硬盘容量: 32GB    price:299.00      salecount:1407
+name:产品名称：eekoo/壹酷 SSD 120G    parse:硬盘容量: 120GB    price:500.00      salecount:1716
+name:产品名称：eekoo/壹酷 SSD 120G    parse:硬盘容量: 120GB    price:500.00      salecount:1716
+name:产品名称：ShineDisk M756 120G    parse:硬盘容量: 120GB    price:398.00      salecount:171
+name:产品名称：ShineDisk M756 120G    parse:硬盘容量: 120GB    price:398.00      salecount:171
+name:产品名称：ShineDisk M746 120G    parse:硬盘容量: 120GB    price:394.00      salecount:80
+name:产品名称：ShineDisk M746 120G    parse:硬盘容量: 120GB    price:394.00      salecount:80
+name:产品名称：Team/十铨科技 Ultra L5 ...    parse:硬盘容量: 120GB    price:299.00      salecount:199
+name:产品名称：Team/十铨科技 Ultra L5 ...    parse:硬盘容量: 120GB    price:299.00      salecount:199
+name:产品名称：烽火狼 T6-120G    parse:硬盘容量: 120GB    price:298.00      salecount:95
+name:产品名称：烽火狼 T6-120G    parse:硬盘容量: 120GB    price:298.00      salecount:95
+name:产品名称：LITEON 睿速 T9 256G    parse:硬盘容量: 256GB    price:639.99      salecount:494
+name:产品名称：LITEON 睿速 T9 256G    parse:硬盘容量: 256GB    price:639.99      salecount:494
+name:产品名称：LITEON 睿速 128G MSATA    parse:硬盘容量: 128GB    price:379.99      salecount:330
+name:产品名称：LITEON 睿速 128G MSATA    parse:硬盘容量: 128GB    price:379.99      salecount:330
+name:产品名称：Intel/英特尔 600P 256G    parse:硬盘容量: 256GB    price:769.00      salecount:516
+name:产品名称：Intel/英特尔 600P 256G    parse:硬盘容量: 256GB    price:769.00      salecount:516
+name:产品名称：Teclast/台电 SD128GBS55...    parse:硬盘容量: 128GB    price:339.00      salecount:688
+name:产品名称：Teclast/台电 SD128GBS55...    parse:硬盘容量: 128GB    price:339.00      salecount:688
+name:产品名称：Intel/英特尔 600P 128G    parse:硬盘容量: 128GB    price:465.00      salecount:514
+name:产品名称：Intel/英特尔 600P 128G    parse:硬盘容量: 128GB    price:465.00      salecount:514
+name:硬盘容量: 250GB    parse:品牌: Samsung/三星    price:699.00      salecount:507
+name:硬盘容量: 250GB    parse:品牌: Samsung/三星    price:699.00      salecount:507
+name:产品名称：Teclast/台电 SD120GB S5...    parse:硬盘容量: 120GB    price:349.00      salecount:472
+name:产品名称：Teclast/台电 SD120GB S5...    parse:硬盘容量: 120GB    price:349.00      salecount:472
+name:产品名称：tigo/金泰克 S520    parse:硬盘容量: 128GB    price:459.00      salecount:167
+name:产品名称：tigo/金泰克 S520    parse:硬盘容量: 128GB    price:459.00      salecount:167
+name:产品名称：Samsung/三星 MZ-75E250...    parse:硬盘容量: 250GB    price:699.00      salecount:1630
+name:产品名称：Samsung/三星 MZ-75E250...    parse:硬盘容量: 250GB    price:699.00      salecount:1630
+name:产品名称：PLEXTOR/浦科特 PX-256M...    parse:硬盘容量: 256GB    price:859.00      salecount:736
+name:产品名称：PLEXTOR/浦科特 PX-256M...    parse:硬盘容量: 256GB    price:859.00      salecount:736
+name:产品名称：Lenovo/联想 SL700 固态硬...    parse:硬盘容量: 256GB    price:941.00      salecount:165
+name:产品名称：Lenovo/联想 SL700 固态硬...    parse:硬盘容量: 256GB    price:941.00      salecount:165
+name:产品名称：KingSpec/金胜维 SATA DO...    parse:硬盘容量: 其他/other    price:189.00      salecount:0
+name:产品名称：Lenovo/联想 SL700 固态硬...    parse:硬盘容量: 128GB    price:495.00      salecount:512
+name:产品名称：KingSpec/金胜维 SATA DO...    parse:硬盘容量: 其他/other    price:189.00      salecount:0
+name:产品名称：Lenovo/联想 SL700 固态硬...    parse:硬盘容量: 128GB    price:495.00      salecount:512
+name:产品名称：Samsung/三星 960EVO500G    parse:硬盘容量: 500GB    price:1799.00      salecount:30
+name:硬盘容量: 32GB    parse:尺寸: 2.5英寸    price:239.00      salecount:0
+name:产品名称：Samsung/三星 960EVO500G    parse:硬盘容量: 500GB    price:1799.00      salecount:30
+name:硬盘容量: 32GB    parse:尺寸: 2.5英寸    price:239.00      salecount:0
+name:产品名称：影驰 铁甲战将 120GB    parse:硬盘容量: 120GB    price:399.00      salecount:1246
+name:产品名称：LITEON 睿速 128G 2280    parse:硬盘容量: 128GB    price:369.00      salecount:35
+name:产品名称：KingSpec/金胜维 奇龙NGF...    parse:硬盘容量: 128GB    price:509.00      salecount:0
+name:产品名称：影驰 铁甲战将 120GB    parse:硬盘容量: 120GB    price:399.00      salecount:1246
+name:产品名称：LITEON 睿速 128G 2280    parse:硬盘容量: 128GB    price:369.00      salecount:35
+name:硬盘容量: 120GB    parse:品牌: Samsung/三星    price:479.00      salecount:25
+name:产品名称：KingSpec/金胜维 奇龙NGF...    parse:硬盘容量: 128GB    price:509.00      salecount:0
+name:硬盘容量: 120GB    parse:品牌: Samsung/三星    price:479.00      salecount:25
+name:产品名称：Samsung/三星 MZ-75E500...    parse:硬盘容量: 500GB    price:1399.00      salecount:123
+name:产品名称：士必得 K7N8-120G    parse:接口类型: ngff    price:578.00      salecount:1
+name:产品名称：三星/SAMSUNG MZ-75E120...    parse:接口类型: SATA接口    price:499.00      salecount:191
+name:硬盘容量: 32GB    parse:尺寸: 其他    price:199.00      salecount:24
+name:产品名称：Samsung/三星 MZ-75E500...    parse:硬盘容量: 500GB    price:1399.00      salecount:123
+name:产品名称：士必得 K7N8-120G    parse:接口类型: ngff    price:578.00      salecount:1
+name:产品名称：三星/SAMSUNG MZ-75E120...    parse:接口类型: SATA接口    price:499.00      salecount:191
+name:硬盘容量: 32GB    parse:尺寸: 其他    price:199.00      salecount:24
+name:产品名称：士必得 Lighting 6246T256...    parse:接口类型: SATA 3    price:962.00      salecount:0
+name:产品名称：Samsung/三星 MZ-N5E120...    parse:硬盘容量: 120GB    price:479.00      salecount:2
+name:产品名称：偲冠特 T500 32GB    parse:硬盘容量: 32GB    price:159.00      salecount:3
+name:产品名称：Lenovo/联想 联想 SL700 ...    parse:硬盘容量: 128GB    price:485.00      salecount:284
+name:产品名称：士必得 Lighting 6246T256...    parse:接口类型: SATA 3    price:962.00      salecount:0
+name:产品名称：Samsung/三星 MZ-N5E120...    parse:硬盘容量: 120GB    price:479.00      salecount:2
+name:产品名称：偲冠特 T500 32GB    parse:硬盘容量: 32GB    price:159.00      salecount:3
+name:产品名称：Lenovo/联想 联想 SL700 ...    parse:硬盘容量: 128GB    price:485.00      salecount:284
+name:产品名称：KingSpec/金胜维 ZIF模块...    parse:硬盘容量: 128GB    price:599.00      salecount:1
+name:硬盘容量: 16GB    parse:尺寸: 其他    price:149.00      salecount:6
+name:产品名称：KingSpec/金胜维 ZIF模块...    parse:硬盘容量: 128GB    price:599.00      salecount:1
+name:产品名称：士必得 H7-240G    parse:硬盘容量: 240GB    price:780.00      salecount:25
+name:硬盘容量: 16GB    parse:尺寸: 其他    price:149.00      salecount:6
+name:产品名称：Toshiba/东芝 Q300 480G    parse:硬盘容量: 480GB    price:1299.00      salecount:114
+name:产品名称：士必得 H7-240G    parse:硬盘容量: 240GB    price:780.00      salecount:25
+name:产品名称：偲冠特 M200 500GB    parse:硬盘容量: 500GB    price:1089.00      salecount:0
+name:产品名称：Toshiba/东芝 Q300 480G    parse:硬盘容量: 480GB    price:1299.00      salecount:114
+name:产品名称：KingSpec/金胜维 MSATA 1...    parse:硬盘容量: 128GB    price:469.00      salecount:7
+name:产品名称：士必得 K7M-240G    parse:接口类型: mSATA    price:825.00      salecount:21
+name:产品名称：偲冠特 M200 500GB    parse:硬盘容量: 500GB    price:1089.00      salecount:0
+name:产品名称：KingSpec/金胜维 MSATA 1...    parse:硬盘容量: 128GB    price:469.00      salecount:7
+name:产品名称：士必得 K7M-240G    parse:接口类型: mSATA    price:825.00      salecount:21
+name:产品名称：偲冠特 IDE 卧式 32GB DOM    parse:硬盘容量: 32GB    price:189.00      salecount:0
+name:产品名称：Samsung/三星 MZ-N5E250    parse:硬盘容量: 250GB    price:809.00      salecount:199
+name:产品名称：士必得 Turbo 2243S16G    parse:接口类型: SATA 2    price:229.00      salecount:0
+name:产品名称：Transcend/创见 TS480GJD...    parse:硬盘容量: 480GB    price:2999.00      salecount:4
+name:产品名称：偲冠特 IDE 卧式 32GB DOM    parse:硬盘容量: 32GB    price:189.00      salecount:0
+name:产品名称：Samsung/三星 MZ-N5E250    parse:硬盘容量: 250GB    price:809.00      salecount:199
+name:产品名称：士必得 Turbo 2243S16G    parse:接口类型: SATA 2    price:229.00      salecount:0
+name:产品名称：Transcend/创见 TS480GJD...    parse:硬盘容量: 480GB    price:2999.00      salecount:4
+name:产品名称：偲冠特 IDE 卧式 16GB DOM    parse:硬盘容量: 16GB    price:139.00      salecount:0
+name:产品名称：Kingston/金士顿 固态硬盘    parse:硬盘容量: 120GB    price:579.00      salecount:21
+name:产品名称：偲冠特 IDE 卧式 16GB DOM    parse:硬盘容量: 16GB    price:139.00      salecount:0
+name:产品名称：Toshiba/东芝 THN-S101Z...    parse:硬盘容量: 240GB    price:549.00      salecount:176
+name:产品名称：Kingston/金士顿 固态硬盘    parse:硬盘容量: 120GB    price:579.00      salecount:21
+name:产品名称：Transcend/创见 TS480GJD...    parse:硬盘容量: 480GB    price:2999.00      salecount:4
+name:产品名称：偲冠特 T500 MSATA 16GB    parse:硬盘容量: 16GB    price:119.00      salecount:24
+name:产品名称：Toshiba/东芝 THN-S101Z...    parse:硬盘容量: 240GB    price:549.00      salecount:176
+name:产品名称：Intel/英特尔 固态    parse:硬盘容量: 其他/other    price:2049.00      salecount:1
+name:产品名称：Transcend/创见 TS480GJD...    parse:硬盘容量: 480GB    price:2999.00      salecount:4
+name:产品名称：偲冠特 T500 MSATA 16GB    parse:硬盘容量: 16GB    price:119.00      salecount:24
+name:产品名称：Intel/英特尔 固态    parse:硬盘容量: 其他/other    price:2049.00      salecount:1
+name:产品名称：KingFast/金速 f6m 128g    parse:硬盘容量: 128GB    price:399.00      salecount:0
+name:产品名称：PLEXTOR/浦科特 PX-128M...    parse:硬盘容量: 128GB    price:449.00      salecount:220
+name:产品名称：Lenovo/联想 SL700 固态硬...    parse:硬盘容量: 120GB    price:449.00      salecount:21
+name:产品名称：Transcend/创见 TS120GES...    parse:硬盘容量: 120GB    price:699.00      salecount:7
+name:产品名称：KingFast/金速 f6m 128g    parse:硬盘容量: 128GB    price:399.00      salecount:0
+name:产品名称：PLEXTOR/浦科特 PX-128M...    parse:硬盘容量: 128GB    price:449.00      salecount:220
+name:产品名称：Lenovo/联想 SL700 固态硬...    parse:硬盘容量: 120GB    price:449.00      salecount:21
+name:产品名称：Transcend/创见 TS120GES...    parse:硬盘容量: 120GB    price:699.00      salecount:7
+name:产品名称：CRUCIAL/镁光 CT2050MX30...    parse:硬盘容量: 2TB    price:4899.00      salecount:0
+name:产品名称：Transcend/创见 TS256GMT...    parse:硬盘容量: 256GB    price:1399.00      salecount:1
+name:产品名称：偲冠特 T500 MSATA 32GB    parse:硬盘容量: 32GB    price:169.00      salecount:7
+name:产品名称：影驰 铁甲战将480G    parse:硬盘容量: 480GB    price:999.00      salecount:185
+name:产品名称：CRUCIAL/镁光 CT2050MX30...    parse:硬盘容量: 2TB    price:4899.00      salecount:0
+name:产品名称：Transcend/创见 TS256GMT...    parse:硬盘容量: 256GB    price:1399.00      salecount:1
+name:产品名称：偲冠特 T500 MSATA 32GB    parse:硬盘容量: 32GB    price:169.00      salecount:7
+name:产品名称：影驰 铁甲战将480G    parse:硬盘容量: 480GB    price:999.00      salecount:185
+name:产品名称：KingFast/金速 G-One 25...    parse:硬盘容量: 256GB    price:599.00      salecount:0
+name:产品名称：Intel/英特尔 Optane 傲腾...    parse:硬盘容量: 16GB    price:349.00      salecount:11
+name:产品名称：Transcend/创见 TS256GES...    parse:硬盘容量: 256GB    price:1199.00      salecount:5
+name:产品名称：KingFast/金速 G-One 25...    parse:硬盘容量: 256GB    price:599.00      salecount:0
+name:产品名称：Intel/英特尔 600P 512G ...    parse:硬盘容量: 512GB    price:1699.00      salecount:61
+name:产品名称：Intel/英特尔 Optane 傲腾...    parse:硬盘容量: 16GB    price:349.00      salecount:11
+name:产品名称：Transcend/创见 TS256GES...    parse:硬盘容量: 256GB    price:1199.00      salecount:5
+name:产品名称：Intel/英特尔 600P 512G ...    parse:硬盘容量: 512GB    price:1699.00      salecount:61
+name:产品名称：Transcend/创见 TS480GJD...    parse:硬盘容量: 480GB    price:2999.00      salecount:1
+name:产品名称：KingFast/金速 G-One    parse:硬盘容量: 128GB    price:439.00      salecount:0
+name:产品名称：KingSpec/金胜维 奇龙2....    parse:硬盘容量: 128GB    price:369.00      salecount:0
+name:产品名称：Transcend/创见 TS480GJD...    parse:硬盘容量: 480GB    price:2999.00      salecount:1
+name:产品名称：KingFast/金速 G-One    parse:硬盘容量: 128GB    price:439.00      salecount:0
+name:产品名称：LITEON T10 240G    parse:硬盘容量: 240GB    price:749.00      salecount:461
+name:产品名称：KingSpec/金胜维 奇龙2....    parse:硬盘容量: 128GB    price:369.00      salecount:0
+name:产品名称：LITEON T10 240G    parse:硬盘容量: 240GB    price:749.00      salecount:461
+name:产品名称：KingSpec/金胜维 MSATA 半...    parse:硬盘容量: 64GB    price:369.00      salecount:5
+name:产品名称：Transcend/创见 TS128GMT...    parse:硬盘容量: 128GB    price:899.00      salecount:6
+name:产品名称：偲冠特 T500 MSATA 64GB    parse:硬盘容量: 64GB    price:269.00      salecount:0
+name:产品名称：KingSpec/金胜维 MSATA 半...    parse:硬盘容量: 64GB    price:369.00      salecount:5
+name:产品名称：Transcend/创见 TS128GMT...    parse:硬盘容量: 128GB    price:899.00      salecount:6
+name:产品名称：偲冠特 T500 MSATA 64GB    parse:硬盘容量: 64GB    price:269.00      salecount:0
+name:产品名称：影驰 铁甲战将240G    parse:硬盘容量: 240GB    price:599.00      salecount:151
+name:产品名称：LITEON 睿速 V5S 128G    parse:硬盘容量: 128GB    price:349.00      salecount:4
+name:产品名称：Transcend/创见 TS256GMT...    parse:硬盘容量: 256GB    price:1399.00      salecount:0
+name:产品名称：偲冠特 IDE 卧式 64GB DOM    parse:硬盘容量: 64GB    price:245.00      salecount:0
+name:产品名称：影驰 铁甲战将240G    parse:硬盘容量: 240GB    price:599.00      salecount:151
+name:产品名称：LITEON 睿速 V5S 128G    parse:硬盘容量: 128GB    price:349.00      salecount:4
+name:产品名称：Transcend/创见 TS256GMT...    parse:硬盘容量: 256GB    price:1399.00      salecount:0
+name:产品名称：偲冠特 IDE 卧式 64GB DOM    parse:硬盘容量: 64GB    price:245.00      salecount:0
+name:产品名称：Transcend/创见 TS64GMTS...    parse:硬盘容量: 64GB    price:499.00      salecount:3
+name:产品名称：LITEON T10 480G    parse:硬盘容量: 480GB    price:1749.00      salecount:2
+name:产品名称：CRUCIAL/镁光 CT525MX300...    parse:硬盘容量: 525G    price:1059.00      salecount:114
+name:产品名称：AData/威刚 固态硬盘    parse:硬盘容量: 其他/other    price:799.00      salecount:6
+name:产品名称：Transcend/创见 TS64GMTS...    parse:硬盘容量: 64GB    price:499.00      salecount:3
+name:产品名称：LITEON T10 480G    parse:硬盘容量: 480GB    price:1749.00      salecount:2
+name:产品名称：CRUCIAL/镁光 CT525MX300...    parse:硬盘容量: 525G    price:1059.00      salecount:114
+name:产品名称：AData/威刚 固态硬盘    parse:硬盘容量: 其他/other    price:799.00      salecount:6
+name:产品名称：Transcend/创见 TS256GSS...    parse:硬盘容量: 256GB    price:999.00      salecount:0
+name:产品名称：AData/威刚 SX930 120G    parse:硬盘容量: 120GB    price:529.00      salecount:1
+name:产品名称：Transcend/创见 TS256GSS...    parse:硬盘容量: 256GB    price:999.00      salecount:0
+name:产品名称：烽火狼 士必得 M3-90G    parse:硬盘容量: 90GB    price:245.00      salecount:2
+name:产品名称：Kingston/金士顿 SA400S3...    parse:硬盘容量: 120GB    price:399.00      salecount:270
+name:产品名称：AData/威刚 SX930 120G    parse:硬盘容量: 120GB    price:529.00      salecount:1
+name:产品名称：士必得 K7N-240G    parse:接口类型: ngff    price:890.00      salecount:5
+name:产品名称：烽火狼 士必得 M3-90G    parse:硬盘容量: 90GB    price:245.00      salecount:2
+name:产品名称：Kingston/金士顿 SA400S3...    parse:硬盘容量: 120GB    price:399.00      salecount:270
+name:产品名称：Intel/英特尔 6000P 128G    parse:硬盘容量: 128GB    price:499.00      salecount:2
+name:产品名称：士必得 K7N-240G    parse:接口类型: ngff    price:890.00      salecount:5
+name:产品名称：烽火狼 士必得 K6M 60G    parse:硬盘容量: 60GB    price:206.00      salecount:0
+name:产品名称：Intel/英特尔 6000P 128G    parse:硬盘容量: 128GB    price:499.00      salecount:2
+name:产品名称：士必得 K7N8-240G    parse:接口类型: ngff    price:910.00      salecount:9
+name:产品名称：烽火狼 士必得 K6M 60G    parse:硬盘容量: 60GB    price:206.00      salecount:0
+name:产品名称：Toshiba/东芝 Q200 EX (...    parse:硬盘容量: 240GB    price:659.00      salecount:123
+name:产品名称：士必得 K7N8-240G    parse:接口类型: ngff    price:910.00      salecount:9
+name:产品名称：LITEON 128V5G+ M.2 228...    parse:硬盘容量: 128GB    price:369.00      salecount:0
+name:产品名称：Toshiba/东芝 Q200 EX (...    parse:硬盘容量: 240GB    price:659.00      salecount:123
+name:产品名称：ov SSDOV21XSATA-240G    parse:硬盘容量: 240GB    price:688.00      salecount:0
+name:产品名称：士必得 H5-120G    parse:硬盘容量: 120GB    price:339.00      salecount:7
+name:产品名称：LITEON 128V5G+ M.2 228...    parse:硬盘容量: 128GB    price:369.00      salecount:0
+name:产品名称：ov SSDOV21XSATA-240G    parse:硬盘容量: 240GB    price:688.00      salecount:0
+name:产品名称：士必得 H5-120G    parse:硬盘容量: 120GB    price:339.00      salecount:7
+name:产品名称：KingFast/金速 F9M 512G    parse:硬盘容量: 512GB    price:1239.00      salecount:0
+name:产品名称：士必得 T6-120G    parse:硬盘容量: 120GB    price:499.00      salecount:1319
+name:硬盘容量: 240GB    parse:品牌: 特科芯    price:529.00      salecount:4
+name:产品名称：士必得 Lighting 6246T128...    parse:接口类型: SATA 3    price:552.00      salecount:3
+name:产品名称：KingFast/金速 F9M 512G    parse:硬盘容量: 512GB    price:1239.00      salecount:0
+name:产品名称：士必得 T6-120G    parse:硬盘容量: 120GB    price:499.00      salecount:1319
+name:硬盘容量: 240GB    parse:品牌: 特科芯    price:529.00      salecount:4
+name:产品名称：士必得 Lighting 6246T128...    parse:接口类型: SATA 3    price:552.00      salecount:3
+name:产品名称：KingFast/金速 F9 128G    parse:硬盘容量: 128GB    price:419.00      salecount:0
+name:产品名称：PLEXTOR/浦科特 PX-512M...    parse:硬盘容量: 512GB    price:1599.00      salecount:65
+name:产品名称：偲冠特 M300 32GB    parse:硬盘容量: 32GB    price:149.00      salecount:1
+name:产品名称：KingSpec/金胜维 MSATA 2...    parse:硬盘容量: 256GB    price:699.00      salecount:3
+name:产品名称：KingFast/金速 F9 128G    parse:硬盘容量: 128GB    price:419.00      salecount:0
+name:产品名称：PLEXTOR/浦科特 PX-512M...    parse:硬盘容量: 512GB    price:1599.00      salecount:65
+name:产品名称：偲冠特 M300 32GB    parse:硬盘容量: 32GB    price:149.00      salecount:1
+name:产品名称：KingSpec/金胜维 MSATA 2...    parse:硬盘容量: 256GB    price:699.00      salecount:3
+name:产品名称：KingFast/金速 K6 128G    parse:硬盘容量: 128GB    price:419.00      salecount:0
+name:硬盘容量: 128GB    parse:尺寸: 2.5英寸    price:349.00      salecount:13
+name:产品名称：士必得 K7N8-120G    parse:接口类型: ngff    price:578.00      salecount:1
+name:产品名称：KingFast/金速 K6 128G    parse:硬盘容量: 128GB    price:419.00      salecount:0
+name:产品名称：Samsung/三星 MZ-V6P512...    parse:硬盘容量: 512GB    price:2499.00      salecount:45
+name:硬盘容量: 128GB    parse:尺寸: 2.5英寸    price:349.00      salecount:13
+name:产品名称：士必得 K7N8-120G    parse:接口类型: ngff    price:578.00      salecount:1
+name:产品名称：Gloway 猛将60G SSD    parse:硬盘容量: 60GB    price:399.00      salecount:2
+name:产品名称：Samsung/三星 MZ-V6P512...    parse:硬盘容量: 512GB    price:2499.00      salecount:45
+name:硬盘容量: 128GB    parse:尺寸: PCI-E    price:368.00      salecount:11
+name:产品名称：士必得 Lighting 6246T256...    parse:接口类型: SATA 3    price:962.00      salecount:0
+name:产品名称：Gloway 猛将60G SSD    parse:硬盘容量: 60GB    price:399.00      salecount:2
+name:硬盘容量: 128GB    parse:尺寸: PCI-E    price:368.00      salecount:11
+name:产品名称：士必得 Lighting 6246T256...    parse:接口类型: SATA 3    price:962.00      salecount:0
+name:产品名称：Kdata/金田 T3m-240GB    parse:硬盘容量: 240GB    price:554.00      salecount:1
+name:产品名称：Intel/英特尔 600P 512G    parse:硬盘容量: 512GB    price:1150.00      salecount:76
+name:产品名称：KingFast/金速 F9M 256GB    parse:硬盘容量: 256GB    price:639.00      salecount:0
+name:产品名称：KingSpec/金胜维 ZIF模块...    parse:硬盘容量: 128GB    price:599.00      salecount:1
+name:产品名称：Kdata/金田 T3m-240GB    parse:硬盘容量: 240GB    price:554.00      salecount:1
+name:产品名称：Intel/英特尔 600P 512G    parse:硬盘容量: 512GB    price:1150.00      salecount:76
+name:产品名称：KingFast/金速 F9M 256GB    parse:硬盘容量: 256GB    price:639.00      salecount:0
+name:产品名称：KingSpec/金胜维 ZIF模块...    parse:硬盘容量: 128GB    price:599.00      salecount:1
+name:产品名称：KingFast/金速 F9M.2    parse:硬盘容量: 60GB    price:459.00      salecount:1
+name:产品名称：KingFast/金速 F9M.2    parse:硬盘容量: 60GB    price:459.00      salecount:1
+name:产品名称：Sandisk/闪迪 SDSSDA-12...    parse:硬盘容量: 120GB    price:372.00      salecount:279
+name:产品名称：KingFast/金速 F6M 32G    parse:硬盘容量: 32GB    price:169.00      salecount:0
+name:产品名称：KingSpec/金胜维 MSATA 1...    parse:硬盘容量: 128GB    price:469.00      salecount:7
+name:产品名称：Transcend/创见 TS512GMT...    parse:硬盘容量: 512GB    price:2160.00      salecount:0
+name:产品名称：Sandisk/闪迪 SDSSDA-12...    parse:硬盘容量: 120GB    price:372.00      salecount:279
+name:产品名称：KingFast/金速 F6M 32G    parse:硬盘容量: 32GB    price:169.00      salecount:0
+name:产品名称：KingSpec/金胜维 MSATA 1...    parse:硬盘容量: 128GB    price:469.00      salecount:7
+name:产品名称：Transcend/创见 TS512GMT...    parse:硬盘容量: 512GB    price:2160.00      salecount:0
+name:产品名称：士必得 Turbo 2243S16G    parse:接口类型: SATA 2    price:229.00      salecount:0
+name:产品名称：影驰 铠甲战将 128gb    parse:硬盘容量: 128GB    price:399.00      salecount:200
+name:产品名称：KingFast/金速 F9M.2 24...    parse:硬盘容量: 240GB    price:669.00      salecount:0
+name:产品名称：士必得 Turbo 2243S16G    parse:接口类型: SATA 2    price:229.00      salecount:0
+name:产品名称：Transcend/创见 TS1TMTS8...    parse:硬盘容量: 其他/other    price:4380.00      salecount:0
+name:产品名称：影驰 铠甲战将 128gb    parse:硬盘容量: 128GB    price:399.00      salecount:200
+name:产品名称：KingFast/金速 F9M.2 24...    parse:硬盘容量: 240GB    price:669.00      salecount:0
+name:产品名称：KingSpec/金胜维 奇龙2....    parse:硬盘容量: 128GB    price:369.00      salecount:0
+name:产品名称：Transcend/创见 TS1TMTS8...    parse:硬盘容量: 其他/other    price:4380.00      salecount:0
+name:产品名称：KingFast/金速 F6 pro 24...    parse:硬盘容量: 240GB    price:569.00      salecount:0
+name:产品名称：KingSpec/金胜维 奇龙2....    parse:硬盘容量: 128GB    price:369.00      salecount:0
+name:产品名称：tigo/金泰克 S300 120G    parse:硬盘容量: 120GB    price:399.00      salecount:365
+name:产品名称：KingFast/金速 F6 pro 24...    parse:硬盘容量: 240GB    price:569.00      salecount:0
+name:产品名称：KingSpec/金胜维 MSATA 半...    parse:硬盘容量: 64GB    price:369.00      salecount:5
+name:产品名称：Transcend/创见 TS960GJD...    parse:硬盘容量: 960g    price:5110.00      salecount:0
+name:产品名称：tigo/金泰克 S300 120G    parse:硬盘容量: 120GB    price:399.00      salecount:365
+name:产品名称：KingFast/金速 F6 PRO 12...    parse:硬盘容量: 120GB    price:399.00      salecount:0
+name:产品名称：KingSpec/金胜维 MSATA 半...    parse:硬盘容量: 64GB    price:369.00      salecount:5
+name:产品名称：Transcend/创见 TS960GJD...    parse:硬盘容量: 960g    price:5110.00      salecount:0
+name:产品名称：KingFast/金速 F6 PRO 12...    parse:硬盘容量: 120GB    price:399.00      salecount:0
+name:产品名称：Intel/英特尔 6000P 128G    parse:硬盘容量: 128GB    price:499.00      salecount:2
+name:产品名称：AData/威刚 SU800 256G    parse:硬盘容量: 256GB    price:599.00      salecount:75
+name:产品名称：KingFast/金速 F9-512G    parse:硬盘容量: 512GB    price:1219.00      salecount:0
+name:产品名称：酷兽 60g    parse:硬盘容量: 60GB    price:299.00      salecount:5
+name:产品名称：KingFast/金速 P600 120G    parse:硬盘容量: 120GB    price:599.00      salecount:0
+name:产品名称：酷兽 240g    parse:硬盘容量: 240GB    price:999.00      salecount:0
+name:产品名称：Kingston/金士顿 SUV400S...    parse:硬盘容量: 120GB    price:405.00      salecount:97
+name:产品名称：KingFast/金速 P600 120G    parse:硬盘容量: 120GB    price:599.00      salecount:0
+name:产品名称：KingFast/金速 P600 120G    parse:硬盘容量: 120GB    price:599.00      salecount:0
+name:产品名称：酷兽 240g    parse:硬盘容量: 240GB    price:999.00      salecount:0
+name:产品名称：Kingston/金士顿 SUV400S...    parse:硬盘容量: 120GB    price:405.00      salecount:97
+name:产品名称：KingFast/金速 P600 120G    parse:硬盘容量: 120GB    price:599.00      salecount:0
+name:产品名称：KingFast/金速 F6 128G    parse:硬盘容量: 120GB    price:399.00      salecount:0
+name:产品名称：Kdata/金田 S3m-128GB    parse:硬盘容量: 128GB    price:399.00      salecount:7
+name:产品名称：KingFast/金速 F6 128G    parse:硬盘容量: 120GB    price:399.00      salecount:0
+name:产品名称：KingFast/金速 F6 128G    parse:硬盘容量: 120GB    price:399.00      salecount:0
+name:产品名称：Kdata/金田 S3m-128GB    parse:硬盘容量: 128GB    price:399.00      salecount:7
+name:产品名称：Gloway 猛将60G    parse:硬盘容量: 60GB    price:399.00      salecount:2214
+name:产品名称：KingFast/金速 F6 128G    parse:硬盘容量: 120GB    price:399.00      salecount:0
+name:产品名称：酷兽 C5S-EVO32G    parse:硬盘容量: 32GB    price:399.00      salecount:21
+name:产品名称：Gloway 猛将60G    parse:硬盘容量: 60GB    price:399.00      salecount:2214
+name:产品名称：KingFast/金速 F9 256G    parse:硬盘容量: 256GB    price:639.00      salecount:0
+name:产品名称：酷兽 C5S-EVO32G    parse:硬盘容量: 32GB    price:399.00      salecount:21
+name:产品名称：AData/威刚 SU800 128G    parse:硬盘容量: 128GB    price:369.00      salecount:379
+name:产品名称：KingFast/金速 F9 256G    parse:硬盘容量: 256GB    price:639.00      salecount:0
+name:产品名称：KingFast/金速 F9 256G    parse:硬盘容量: 256GB    price:639.00      salecount:0
+name:产品名称：LITEON V5S 256G    parse:硬盘容量: 256GB    price:599.00      salecount:0
+name:产品名称：AData/威刚 SU800 128G    parse:硬盘容量: 128GB    price:369.00      salecount:379
+name:产品名称：KingFast/金速 F9 256G    parse:硬盘容量: 256GB    price:639.00      salecount:0
+name:产品名称：LITEON V5S 256G    parse:硬盘容量: 256GB    price:599.00      salecount:0
+name:产品名称：KingFast/金速 F2 32G    parse:硬盘容量: 32GB    price:149.00      salecount:0
+name:产品名称：HP/惠普 789155-B21    parse:硬盘容量: 960g    price:11200.00      salecount:0
+name:产品名称：LITEON T10 120G    parse:硬盘容量: 120GB    price:599.00      salecount:162
+name:产品名称：KingFast/金速 F2 32G    parse:硬盘容量: 32GB    price:149.00      salecount:0
+name:产品名称：KingFast/金速 F2 32G    parse:硬盘容量: 32GB    price:149.00      salecount:0
+name:产品名称：HP/惠普 789155-B21    parse:硬盘容量: 960g    price:11200.00      salecount:0
+name:产品名称：LITEON T10 120G    parse:硬盘容量: 120GB    price:599.00      salecount:162
+name:产品名称：KingFast/金速 F2 32G    parse:硬盘容量: 32GB    price:149.00      salecount:0
+name:产品名称：HP/惠普 717969-B21    parse:硬盘容量: 240GB    price:3799.00      salecount:0
+name:产品名称：KingSpec/金胜维 NGFF 64...    parse:硬盘容量: 64GB    price:238.00      salecount:4
+name:产品名称：HP/惠普 717969-B21    parse:硬盘容量: 240GB    price:3799.00      salecount:0
+name:产品名称：士必得 H5-100G    parse:接口类型: SATA 3    price:448.00      salecount:141
+name:颜色分类: 金色    parse:接口类型: SATA 3    price:328.00      salecount:16
+name:产品名称：KingSpec/金胜维 NGFF 64...    parse:硬盘容量: 64GB    price:238.00      salecount:4
+name:产品名称：HP/惠普 691868-B21    parse:硬盘容量: 800GB    price:32899.00      salecount:0
+name:产品名称：士必得 H5-100G    parse:接口类型: SATA 3    price:448.00      salecount:141
+name:颜色分类: 金色    parse:接口类型: SATA 3    price:328.00      salecount:16
+name:硬盘容量: 64GB    parse:尺寸: 2.5英寸    price:228.00      salecount:8
+name:产品名称：HP/惠普 691868-B21    parse:硬盘容量: 800GB    price:32899.00      salecount:0
+name:产品名称：Fujitsu/富士通 F200-12...    parse:硬盘容量: 120GB    price:399.00      salecount:190
+name:产品名称：KingSpec/金胜维 NGFF 64...    parse:硬盘容量: 64GB    price:238.00      salecount:4
+name:硬盘容量: 64GB    parse:尺寸: 2.5英寸    price:228.00      salecount:8
+name:产品名称：HP/惠普 779164-B21    parse:硬盘容量: 200GB    price:6900.00      salecount:0
+name:产品名称：Fujitsu/富士通 F200-12...    parse:硬盘容量: 120GB    price:399.00      salecount:190
+name:产品名称：KingSpec/金胜维 NGFF 64...    parse:硬盘容量: 64GB    price:238.00      salecount:4
+name:产品名称：KingSpec/金胜维 NGFF 12...    parse:硬盘容量: 128GB    price:425.00      salecount:3
+name:产品名称：HP/惠普 779164-B21    parse:硬盘容量: 200GB    price:6900.00      salecount:0
+name:产品名称：Kingston/金士顿 SV300S3...    parse:硬盘容量: 240GB    price:649.00      salecount:179
+name:产品名称：偲冠特 M200 128GB    parse:硬盘容量: 128GB    price:359.00      salecount:2
+name:产品名称：KingSpec/金胜维 NGFF 12...    parse:硬盘容量: 128GB    price:425.00      salecount:3
+name:产品名称：Kingston/金士顿 SV300S3...    parse:硬盘容量: 240GB    price:649.00      salecount:179
+name:产品名称：偲冠特 M200 128GB    parse:硬盘容量: 128GB    price:359.00      salecount:2
+name:产品名称：偲冠特 M300 128GB    parse:硬盘容量: 128GB    price:359.00      salecount:0
+name:硬盘容量: 64GB    parse:尺寸: 其他    price:238.00      salecount:11
+name:产品名称：偲冠特 M300 128GB    parse:硬盘容量: 128GB    price:359.00      salecount:0
+name:产品名称：Kingston/金士顿 SUV400S...    parse:硬盘容量: 240GB    price:599.00      salecount:868
+name:硬盘容量: 64GB    parse:尺寸: 其他    price:238.00      salecount:11
+name:产品名称：偲冠特 SATA 卧式 8GB DOM    parse:硬盘容量: 8GB    price:109.00      salecount:0
+name:产品名称：Kingston/金士顿 SUV400S...    parse:硬盘容量: 240GB    price:599.00      salecount:868
+name:产品名称：美商海盗船 CSSD-F480GBM...    parse:硬盘容量: 480GB    price:2799.00      salecount:0
+name:产品名称：偲冠特 SATA 卧式 8GB DOM    parse:硬盘容量: 8GB    price:109.00      salecount:0
+name:产品名称：美商海盗船 CSSD-F480GBM...    parse:硬盘容量: 480GB    price:2799.00      salecount:0
+name:硬盘容量: 120GB    parse:尺寸: 2.5英寸    price:338.00      salecount:0
+name:产品名称：LITEON/建兴 T10    parse:硬盘容量: 240GB    price:799.00      salecount:293
+name:硬盘容量: 120GB    parse:尺寸: 2.5英寸    price:338.00      salecount:0
+name:产品名称：LITEON/建兴 T10    parse:硬盘容量: 240GB    price:799.00      salecount:293
+name:产品名称：KingSpec/金胜维 T系列2....    parse:硬盘容量: 120GB    price:328.00      salecount:3
+name:产品名称：偲冠特 SATA 卧式 16GB DO...    parse:硬盘容量: 16GB    price:139.00      salecount:0
+name:产品名称：CRUCIAL/镁光 CT275MX300...    parse:硬盘容量: 275GB    price:709.00      salecount:69
+name:产品名称：KingSpec/金胜维 T系列2....    parse:硬盘容量: 120GB    price:328.00      salecount:3
+name:产品名称：偲冠特 SATA 卧式 16GB DO...    parse:硬盘容量: 16GB    price:139.00      salecount:0
+name:产品名称：CRUCIAL/镁光 CT275MX300...    parse:硬盘容量: 275GB    price:709.00      salecount:69
+name:产品名称：偲冠特 T500S 32GB    parse:硬盘容量: 32GB    price:145.00      salecount:14
+name:产品名称：偲冠特 M300 500GB    parse:硬盘容量: 500GB    price:999.00      salecount:0
+name:产品名称：偲冠特 T500S 32GB    parse:硬盘容量: 32GB    price:145.00      salecount:14
+name:产品名称：偲冠特 M300 500GB    parse:硬盘容量: 500GB    price:999.00      salecount:0
+name:产品名称：Toshiba/东芝 Q300 240G    parse:硬盘容量: 240GB    price:569.99      salecount:124
+name:产品名称：美商海盗船 CSSD-F120GBM...    parse:硬盘容量: 120GB    price:999.00      salecount:0
+name:硬盘容量: 128GB    parse:尺寸: 其他    price:368.00      salecount:0
+name:产品名称：Toshiba/东芝 Q300 240G    parse:硬盘容量: 240GB    price:569.99      salecount:124
+name:产品名称：美商海盗船 CSSD-F120GBM...    parse:硬盘容量: 120GB    price:999.00      salecount:0
+name:硬盘容量: 128GB    parse:尺寸: 其他    price:368.00      salecount:0
+name:颜色分类: 灰    parse:接口类型: usb type-c    price:189.00      salecount:0
+name:产品名称：Sandisk/闪迪 SDSSDA-24...    parse:硬盘容量: 240GB    price:549.00      salecount:921
+name:硬盘容量: 64GB    parse:尺寸: PCI-E    price:289.00      salecount:3
+name:颜色分类: 灰    parse:接口类型: usb type-c    price:189.00      salecount:0
+name:产品名称：Sandisk/闪迪 SDSSDA-24...    parse:硬盘容量: 240GB    price:549.00      salecount:921
+name:硬盘容量: 64GB    parse:尺寸: PCI-E    price:289.00      salecount:3
+name:硬盘容量: 120GB    parse:尺寸: 其他    price:398.00      salecount:0
+name:硬盘容量: 16GB    parse:尺寸: 其他    price:199.00      salecount:2
+name:硬盘容量: 120GB    parse:尺寸: 其他    price:398.00      salecount:0
+name:产品名称：Intel/英特尔 Optane 傲腾...    parse:硬盘容量: 32GB    price:799.00      salecount:86
+name:硬盘容量: 16GB    parse:尺寸: 其他    price:199.00      salecount:2
+name:硬盘容量: 64GB    parse:尺寸: 2.5英寸    price:268.00      salecount:0
+name:产品名称：Intel/英特尔 Optane 傲腾...    parse:硬盘容量: 32GB    price:799.00      salecount:86
+name:硬盘容量: 64GB    parse:尺寸: 2.5英寸    price:228.00      salecount:8
+name:硬盘容量: 64GB    parse:尺寸: 2.5英寸    price:268.00      salecount:0
+name:硬盘容量: 64GB    parse:尺寸: 2.5英寸    price:228.00      salecount:8
+name:颜色分类: 蓝色    parse:接口类型: SATA 3    price:649.00      salecount:1
+name:产品名称：Kingston/金士顿 UV400 2...    parse:硬盘容量: 240GB    price:559.00      salecount:190
+name:产品名称：偲冠特 M300 64GB    parse:硬盘容量: 64GB    price:239.00      salecount:1
+name:颜色分类: 蓝色    parse:接口类型: SATA 3    price:649.00      salecount:1
+name:产品名称：Kingston/金士顿 UV400 2...    parse:硬盘容量: 240GB    price:559.00      salecount:190
+name:产品名称：偲冠特 M300 64GB    parse:硬盘容量: 64GB    price:239.00      salecount:1
+name:产品名称：偲冠特 T500 32GB    parse:硬盘容量: 32GB    price:159.00      salecount:3
+name:产品名称：KingSpec/金胜维 NGFF 12...    parse:硬盘容量: 128GB    price:425.00      salecount:3
+name:产品名称：偲冠特 T500 32GB    parse:硬盘容量: 32GB    price:159.00      salecount:3
+name:产品名称：Toshiba/东芝 A100 240G    parse:硬盘容量: 240GB    price:599.00      salecount:1460
+name:产品名称：KingSpec/金胜维 NGFF 12...    parse:硬盘容量: 128GB    price:425.00      salecount:3
+name:产品名称：偲冠特 M200 500GB    parse:硬盘容量: 500GB    price:1089.00      salecount:0
+name:产品名称：Toshiba/东芝 A100 240G    parse:硬盘容量: 240GB    price:599.00      salecount:1460
+name:产品名称：偲冠特 SATA 卧式 32GB DO...    parse:硬盘容量: 32GB    price:199.00      salecount:0
+name:产品名称：偲冠特 M200 500GB    parse:硬盘容量: 500GB    price:1089.00      salecount:0
+name:产品名称：偲冠特 SATA 卧式 32GB DO...    parse:硬盘容量: 32GB    price:199.00      salecount:0
+name:产品名称：KingFast/金速 G-One 25...    parse:硬盘容量: 256GB    price:599.00      salecount:0
+name:产品名称：ov SSDOV13SATA-120G    parse:硬盘容量: 120GB    price:319.00      salecount:451
+name:产品名称：偲冠特 SATA 卧式 8GB DOM    parse:硬盘容量: 8GB    price:109.00      salecount:0
+name:产品名称：KingFast/金速 G-One 25...    parse:硬盘容量: 256GB    price:599.00      salecount:0
+name:产品名称：ov SSDOV13SATA-120G    parse:硬盘容量: 120GB    price:319.00      salecount:451
+name:产品名称：偲冠特 SATA 卧式 8GB DOM    parse:硬盘容量: 8GB    price:109.00      salecount:0
+name:硬盘容量: 120GB    parse:尺寸: 2.5英寸    price:338.00      salecount:0
+name:产品名称：烽火狼 士必得 M3-90G    parse:硬盘容量: 90GB    price:245.00      salecount:2
+name:产品名称：Samsung/三星 MZ-750120...    parse:硬盘容量: 120GB    price:459.00      salecount:1472
+name:硬盘容量: 120GB    parse:尺寸: 2.5英寸    price:338.00      salecount:0
+name:产品名称：烽火狼 士必得 M3-90G    parse:硬盘容量: 90GB    price:245.00      salecount:2
+name:产品名称：Samsung/三星 MZ-750120...    parse:硬盘容量: 120GB    price:459.00      salecount:1472
+name:产品名称：偲冠特 SATA 卧式 16GB DO...    parse:硬盘容量: 16GB    price:139.00      salecount:0
+name:产品名称：KingFast/金速 F9M 512G    parse:硬盘容量: 512GB    price:1239.00      salecount:0
+name:产品名称：偲冠特 SATA 卧式 16GB DO...    parse:硬盘容量: 16GB    price:139.00      salecount:0
+name:产品名称：KingFast/金速 F9M 512G    parse:硬盘容量: 512GB    price:1239.00      salecount:0
+name:产品名称：eekoo/壹酷 K100    parse:硬盘容量: 120GB    price:500.00      salecount:119
+name:产品名称：偲冠特 M300 500GB    parse:硬盘容量: 500GB    price:999.00      salecount:0
+name:产品名称：KingFast/金速 K6 128G    parse:硬盘容量: 128GB    price:419.00      salecount:0
+name:产品名称：eekoo/壹酷 K100    parse:硬盘容量: 120GB    price:500.00      salecount:119
+name:产品名称：偲冠特 M300 500GB    parse:硬盘容量: 500GB    price:999.00      salecount:0
+name:产品名称：KingFast/金速 K6 128G    parse:硬盘容量: 128GB    price:419.00      salecount:0
+name:产品名称：Lenovo/联想 ST510(120G...    parse:硬盘容量: 120GB    price:499.00      salecount:767
+name:硬盘容量: 128GB    parse:尺寸: 其他    price:368.00      salecount:0
+name:产品名称：Lenovo/联想 ST510(120G...    parse:硬盘容量: 120GB    price:499.00      salecount:767
+name:硬盘容量: 128GB    parse:尺寸: 其他    price:368.00      salecount:0
+name:硬盘容量: 120GB    parse:尺寸: 其他    price:398.00      salecount:0
+name:产品名称：Intel/英特尔 固态硬盘    parse:硬盘容量: 其他/other    price:799.00      salecount:70
+name:硬盘容量: 120GB    parse:尺寸: 其他    price:398.00      salecount:0
+name:产品名称：Intel/英特尔 固态硬盘    parse:硬盘容量: 其他/other    price:799.00      salecount:70
+name:硬盘容量: 64GB    parse:尺寸: 2.5英寸    price:268.00      salecount:0
+name:产品名称：精亿 唐将120G固态硬盘    parse:硬盘容量: 120GB    price:580.00      salecount:51
+name:硬盘容量: 64GB    parse:尺寸: 2.5英寸    price:268.00      salecount:0
+name:产品名称：精亿 唐将120G固态硬盘    parse:硬盘容量: 120GB    price:580.00      salecount:51
+name:颜色分类: 蓝色    parse:接口类型: SATA 3    price:649.00      salecount:1
+name:产品名称：Gloway 猛将32G    parse:硬盘容量: 32GB    price:299.00      salecount:1406
+name:颜色分类: 蓝色    parse:接口类型: SATA 3    price:649.00      salecount:1
+name:产品名称：Gloway 猛将32G    parse:硬盘容量: 32GB    price:299.00      salecount:1406
+name:产品名称：美商海盗船 MP500 480G    parse:硬盘容量: 480GB    price:2699.00      salecount:0
+name:产品名称：美商海盗船 MP500 480G    parse:硬盘容量: 480GB    price:2699.00      salecount:0
+name:产品名称：eekoo/壹酷 SSD 120G    parse:硬盘容量: 120GB    price:500.00      salecount:1717
+name:产品名称：eekoo/壹酷 SSD 120G    parse:硬盘容量: 120GB    price:500.00      salecount:1717
+name:产品名称：ShineDisk M756 120G    parse:硬盘容量: 120GB    price:398.00      salecount:172
+name:产品名称：ShineDisk M756 120G    parse:硬盘容量: 120GB    price:398.00      salecount:172
+name:产品名称：XPG SU800固态硬盘    parse:硬盘容量: 128GB    price:363.00      salecount:116
+name:产品名称：XPG SU800固态硬盘    parse:硬盘容量: 128GB    price:363.00      salecount:116
+name:产品名称：Netac/朗科 N3-60GB    parse:硬盘容量: 60GB    price:308.00      salecount:71
+name:产品名称：Netac/朗科 N3-60GB    parse:硬盘容量: 60GB    price:308.00      salecount:71
+name:产品名称：ShineDisk M746 120G    parse:硬盘容量: 120GB    price:394.00      salecount:81
+name:产品名称：ShineDisk M746 120G    parse:硬盘容量: 120GB    price:394.00      salecount:81
+name:产品名称：烽火狼 T6-120G    parse:硬盘容量: 120GB    price:298.00      salecount:95
+name:产品名称：烽火狼 T6-120G    parse:硬盘容量: 120GB    price:298.00      salecount:95
+name:产品名称：烽火狼 H5-60G    parse:硬盘容量: 60GB    price:188.99      salecount:352
+name:产品名称：烽火狼 H5-60G    parse:硬盘容量: 60GB    price:188.99      salecount:352
+name:产品名称：LITEON 睿速 T9 256G    parse:硬盘容量: 256GB    price:639.99      salecount:495
+name:产品名称：LITEON 睿速 T9 256G    parse:硬盘容量: 256GB    price:639.99      salecount:495
+name:产品名称：Intel/英特尔 600P 256G    parse:硬盘容量: 256GB    price:769.00      salecount:513
+name:产品名称：Intel/英特尔 600P 256G    parse:硬盘容量: 256GB    price:769.00      salecount:513
+name:产品名称：LITEON 睿速 T9 128G    parse:硬盘容量: 128GB    price:439.99      salecount:245
+name:产品名称：LITEON 睿速 T9 128G    parse:硬盘容量: 128GB    price:439.99      salecount:245
+name:产品名称：Teclast/台电 SD128GBS55...    parse:硬盘容量: 128GB    price:339.00      salecount:689
+name:产品名称：Teclast/台电 SD128GBS55...    parse:硬盘容量: 128GB    price:339.00      salecount:689
+name:产品名称：Teclast/台电 SD120GB S5...    parse:硬盘容量: 120GB    price:349.00      salecount:471
+name:产品名称：Teclast/台电 SD120GB S5...    parse:硬盘容量: 120GB    price:349.00      salecount:471
