@@ -4,7 +4,7 @@ from scrapy.loader import ItemLoader
 from spider.items import SpiderItem
 from selenium import webdriver
 from bs4 import BeautifulSoup as BS
-import re
+import re,csv
 class dataSpider(scrapy.Spider):
     name = "data"
     allowed_domains = ['tmall.com']
@@ -27,11 +27,16 @@ class dataSpider(scrapy.Spider):
             parse=driver.find_element_by_xpath('//*[@id="J_AttrUL"]/li[3]').text
             price=driver.find_element_by_xpath('//*[@id="J_StrPriceModBox"]/dd/span').text
             salecount = driver.find_element_by_xpath('//*[@id="J_DetailMeta"]/div/div[1]/div/ul/li[1]/div/span[2]').text
-            with open('data2.json', 'a') as f:
-                f.write('name:' + name.encode("utf-8") + '    ' + 'parse:' + parse.encode(
-                    "utf-8") + '    ' + 'price:' + price.encode("utf-8") + '      ' + 'salecount:' + salecount.encode(
-                    "utf-8"))
-                f.write('\n')
+            with open('tm1.csv', 'ab') as f:
+                #fileheader=['name','parse','price','salecount']
+                writer=csv.writer(f)
+                #writer.writerow(fileheader)
+                data=[name.encode("utf-8"),parse.encode("utf-8"),price.encode("utf-8"),salecount.encode("utf-8")]
+                writer.writerow(data)
+#                f.write('name:' + name.encode("utf-8") + '    ' + 'parse:' + parse.encode(
+#                    "utf-8") + '    ' + 'price:' + price.encode("utf-8") + '      ' + 'salecount:' + salecount.encode(
+#                    "utf-8"))
+#                f.write('\n')
                 f.close()
         except:
             pass

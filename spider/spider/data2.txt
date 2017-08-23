@@ -1,3 +1,4 @@
+name:   parse:   price:    salecount:
 name:产品名称：Samsung/三星 MZ-75E250...    parse:硬盘容量: 250GB    price:699.00      salecount:1702
 name:产品名称：Samsung/三星 MZ-75E250...    parse:硬盘容量: 250GB    price:699.00      salecount:1702
 name:产品名称：PLEXTOR/浦科特 PX-256M...    parse:硬盘容量: 256GB    price:859.00      salecount:760
